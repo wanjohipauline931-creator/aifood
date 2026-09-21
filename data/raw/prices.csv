@@ -1,0 +1,2191 @@
+date,item,market,price_kes,unit
+2024-01-01,Tomatoes,Wakulima,78,per kg
+2024-01-01,Sukuma Wiki,Wakulima,25,per bundle
+2024-01-01,Onions,Wakulima,110,per kg
+2024-01-01,Maize,Wakulima,136,per tin
+2024-01-01,Potatoes,Wakulima,90,per kg
+2024-01-01,Cabbage,Wakulima,59,per piece
+2024-01-02,Tomatoes,Wakulima,82,per kg
+2024-01-02,Sukuma Wiki,Wakulima,25,per bundle
+2024-01-02,Onions,Wakulima,112,per kg
+2024-01-02,Maize,Wakulima,131,per tin
+2024-01-02,Potatoes,Wakulima,80,per kg
+2024-01-02,Cabbage,Wakulima,57,per piece
+2024-01-03,Tomatoes,Wakulima,68,per kg
+2024-01-03,Sukuma Wiki,Wakulima,26,per bundle
+2024-01-03,Onions,Wakulima,117,per kg
+2024-01-03,Maize,Wakulima,144,per tin
+2024-01-03,Potatoes,Wakulima,80,per kg
+2024-01-03,Cabbage,Wakulima,58,per piece
+2024-01-04,Tomatoes,Wakulima,81,per kg
+2024-01-04,Sukuma Wiki,Wakulima,25,per bundle
+2024-01-04,Onions,Wakulima,120,per kg
+2024-01-04,Maize,Wakulima,147,per tin
+2024-01-04,Potatoes,Wakulima,83,per kg
+2024-01-04,Cabbage,Wakulima,53,per piece
+2024-01-05,Tomatoes,Wakulima,83,per kg
+2024-01-05,Sukuma Wiki,Wakulima,27,per bundle
+2024-01-05,Onions,Wakulima,106,per kg
+2024-01-05,Maize,Wakulima,133,per tin
+2024-01-05,Potatoes,Wakulima,92,per kg
+2024-01-05,Cabbage,Wakulima,58,per piece
+2024-01-06,Tomatoes,Wakulima,85,per kg
+2024-01-06,Sukuma Wiki,Wakulima,32,per bundle
+2024-01-06,Onions,Wakulima,120,per kg
+2024-01-06,Maize,Wakulima,161,per tin
+2024-01-06,Potatoes,Wakulima,88,per kg
+2024-01-06,Cabbage,Wakulima,60,per piece
+2024-01-07,Tomatoes,Wakulima,85,per kg
+2024-01-07,Sukuma Wiki,Wakulima,31,per bundle
+2024-01-07,Onions,Wakulima,127,per kg
+2024-01-07,Maize,Wakulima,152,per tin
+2024-01-07,Potatoes,Wakulima,94,per kg
+2024-01-07,Cabbage,Wakulima,54,per piece
+2024-01-08,Tomatoes,Wakulima,72,per kg
+2024-01-08,Sukuma Wiki,Wakulima,27,per bundle
+2024-01-08,Onions,Wakulima,106,per kg
+2024-01-08,Maize,Wakulima,136,per tin
+2024-01-08,Potatoes,Wakulima,78,per kg
+2024-01-08,Cabbage,Wakulima,54,per piece
+2024-01-09,Tomatoes,Wakulima,78,per kg
+2024-01-09,Sukuma Wiki,Wakulima,27,per bundle
+2024-01-09,Onions,Wakulima,111,per kg
+2024-01-09,Maize,Wakulima,136,per tin
+2024-01-09,Potatoes,Wakulima,81,per kg
+2024-01-09,Cabbage,Wakulima,62,per piece
+2024-01-10,Tomatoes,Wakulima,78,per kg
+2024-01-10,Sukuma Wiki,Wakulima,29,per bundle
+2024-01-10,Onions,Wakulima,108,per kg
+2024-01-10,Maize,Wakulima,148,per tin
+2024-01-10,Potatoes,Wakulima,80,per kg
+2024-01-10,Cabbage,Wakulima,56,per piece
+2024-01-11,Tomatoes,Wakulima,84,per kg
+2024-01-11,Sukuma Wiki,Wakulima,30,per bundle
+2024-01-11,Onions,Wakulima,115,per kg
+2024-01-11,Maize,Wakulima,147,per tin
+2024-01-11,Potatoes,Wakulima,92,per kg
+2024-01-11,Cabbage,Wakulima,60,per piece
+2024-01-12,Tomatoes,Wakulima,72,per kg
+2024-01-12,Sukuma Wiki,Wakulima,25,per bundle
+2024-01-12,Onions,Wakulima,110,per kg
+2024-01-12,Maize,Wakulima,137,per tin
+2024-01-12,Potatoes,Wakulima,80,per kg
+2024-01-12,Cabbage,Wakulima,62,per piece
+2024-01-13,Tomatoes,Wakulima,86,per kg
+2024-01-13,Sukuma Wiki,Wakulima,28,per bundle
+2024-01-13,Onions,Wakulima,123,per kg
+2024-01-13,Maize,Wakulima,147,per tin
+2024-01-13,Potatoes,Wakulima,97,per kg
+2024-01-13,Cabbage,Wakulima,59,per piece
+2024-01-14,Tomatoes,Wakulima,76,per kg
+2024-01-14,Sukuma Wiki,Wakulima,28,per bundle
+2024-01-14,Onions,Wakulima,121,per kg
+2024-01-14,Maize,Wakulima,144,per tin
+2024-01-14,Potatoes,Wakulima,91,per kg
+2024-01-14,Cabbage,Wakulima,65,per piece
+2024-01-15,Tomatoes,Wakulima,75,per kg
+2024-01-15,Sukuma Wiki,Wakulima,26,per bundle
+2024-01-15,Onions,Wakulima,124,per kg
+2024-01-15,Maize,Wakulima,143,per tin
+2024-01-15,Potatoes,Wakulima,78,per kg
+2024-01-15,Cabbage,Wakulima,52,per piece
+2024-01-16,Tomatoes,Wakulima,70,per kg
+2024-01-16,Sukuma Wiki,Wakulima,30,per bundle
+2024-01-16,Onions,Wakulima,120,per kg
+2024-01-16,Maize,Wakulima,141,per tin
+2024-01-16,Potatoes,Wakulima,78,per kg
+2024-01-16,Cabbage,Wakulima,56,per piece
+2024-01-17,Tomatoes,Wakulima,84,per kg
+2024-01-17,Sukuma Wiki,Wakulima,29,per bundle
+2024-01-17,Onions,Wakulima,124,per kg
+2024-01-17,Maize,Wakulima,151,per tin
+2024-01-17,Potatoes,Wakulima,77,per kg
+2024-01-17,Cabbage,Wakulima,60,per piece
+2024-01-18,Tomatoes,Wakulima,79,per kg
+2024-01-18,Sukuma Wiki,Wakulima,29,per bundle
+2024-01-18,Onions,Wakulima,109,per kg
+2024-01-18,Maize,Wakulima,146,per tin
+2024-01-18,Potatoes,Wakulima,79,per kg
+2024-01-18,Cabbage,Wakulima,56,per piece
+2024-01-19,Tomatoes,Wakulima,75,per kg
+2024-01-19,Sukuma Wiki,Wakulima,32,per bundle
+2024-01-19,Onions,Wakulima,122,per kg
+2024-01-19,Maize,Wakulima,137,per tin
+2024-01-19,Potatoes,Wakulima,86,per kg
+2024-01-19,Cabbage,Wakulima,53,per piece
+2024-01-20,Tomatoes,Wakulima,87,per kg
+2024-01-20,Sukuma Wiki,Wakulima,33,per bundle
+2024-01-20,Onions,Wakulima,116,per kg
+2024-01-20,Maize,Wakulima,153,per tin
+2024-01-20,Potatoes,Wakulima,92,per kg
+2024-01-20,Cabbage,Wakulima,56,per piece
+2024-01-21,Tomatoes,Wakulima,84,per kg
+2024-01-21,Sukuma Wiki,Wakulima,30,per bundle
+2024-01-21,Onions,Wakulima,125,per kg
+2024-01-21,Maize,Wakulima,151,per tin
+2024-01-21,Potatoes,Wakulima,81,per kg
+2024-01-21,Cabbage,Wakulima,58,per piece
+2024-01-22,Tomatoes,Wakulima,68,per kg
+2024-01-22,Sukuma Wiki,Wakulima,32,per bundle
+2024-01-22,Onions,Wakulima,122,per kg
+2024-01-22,Maize,Wakulima,151,per tin
+2024-01-22,Potatoes,Wakulima,82,per kg
+2024-01-22,Cabbage,Wakulima,52,per piece
+2024-01-23,Tomatoes,Wakulima,82,per kg
+2024-01-23,Sukuma Wiki,Wakulima,32,per bundle
+2024-01-23,Onions,Wakulima,106,per kg
+2024-01-23,Maize,Wakulima,142,per tin
+2024-01-23,Potatoes,Wakulima,78,per kg
+2024-01-23,Cabbage,Wakulima,60,per piece
+2024-01-24,Tomatoes,Wakulima,80,per kg
+2024-01-24,Sukuma Wiki,Wakulima,26,per bundle
+2024-01-24,Onions,Wakulima,114,per kg
+2024-01-24,Maize,Wakulima,144,per tin
+2024-01-24,Potatoes,Wakulima,81,per kg
+2024-01-24,Cabbage,Wakulima,62,per piece
+2024-01-25,Tomatoes,Wakulima,75,per kg
+2024-01-25,Sukuma Wiki,Wakulima,26,per bundle
+2024-01-25,Onions,Wakulima,115,per kg
+2024-01-25,Maize,Wakulima,148,per tin
+2024-01-25,Potatoes,Wakulima,80,per kg
+2024-01-25,Cabbage,Wakulima,55,per piece
+2024-01-26,Tomatoes,Wakulima,84,per kg
+2024-01-26,Sukuma Wiki,Wakulima,30,per bundle
+2024-01-26,Onions,Wakulima,113,per kg
+2024-01-26,Maize,Wakulima,143,per tin
+2024-01-26,Potatoes,Wakulima,79,per kg
+2024-01-26,Cabbage,Wakulima,54,per piece
+2024-01-27,Tomatoes,Wakulima,77,per kg
+2024-01-27,Sukuma Wiki,Wakulima,31,per bundle
+2024-01-27,Onions,Wakulima,115,per kg
+2024-01-27,Maize,Wakulima,143,per tin
+2024-01-27,Potatoes,Wakulima,82,per kg
+2024-01-27,Cabbage,Wakulima,62,per piece
+2024-01-28,Tomatoes,Wakulima,76,per kg
+2024-01-28,Sukuma Wiki,Wakulima,33,per bundle
+2024-01-28,Onions,Wakulima,127,per kg
+2024-01-28,Maize,Wakulima,140,per tin
+2024-01-28,Potatoes,Wakulima,85,per kg
+2024-01-28,Cabbage,Wakulima,62,per piece
+2024-01-29,Tomatoes,Wakulima,72,per kg
+2024-01-29,Sukuma Wiki,Wakulima,26,per bundle
+2024-01-29,Onions,Wakulima,123,per kg
+2024-01-29,Maize,Wakulima,144,per tin
+2024-01-29,Potatoes,Wakulima,85,per kg
+2024-01-29,Cabbage,Wakulima,61,per piece
+2024-01-30,Tomatoes,Wakulima,81,per kg
+2024-01-30,Sukuma Wiki,Wakulima,26,per bundle
+2024-01-30,Onions,Wakulima,106,per kg
+2024-01-30,Maize,Wakulima,141,per tin
+2024-01-30,Potatoes,Wakulima,84,per kg
+2024-01-30,Cabbage,Wakulima,57,per piece
+2024-01-31,Tomatoes,Wakulima,80,per kg
+2024-01-31,Sukuma Wiki,Wakulima,30,per bundle
+2024-01-31,Onions,Wakulima,124,per kg
+2024-01-31,Maize,Wakulima,133,per tin
+2024-01-31,Potatoes,Wakulima,84,per kg
+2024-01-31,Cabbage,Wakulima,55,per piece
+2024-02-01,Tomatoes,Wakulima,82,per kg
+2024-02-01,Sukuma Wiki,Wakulima,27,per bundle
+2024-02-01,Onions,Wakulima,108,per kg
+2024-02-01,Maize,Wakulima,142,per tin
+2024-02-01,Potatoes,Wakulima,84,per kg
+2024-02-01,Cabbage,Wakulima,54,per piece
+2024-02-02,Tomatoes,Wakulima,72,per kg
+2024-02-02,Sukuma Wiki,Wakulima,32,per bundle
+2024-02-02,Onions,Wakulima,113,per kg
+2024-02-02,Maize,Wakulima,151,per tin
+2024-02-02,Potatoes,Wakulima,87,per kg
+2024-02-02,Cabbage,Wakulima,52,per piece
+2024-02-03,Tomatoes,Wakulima,88,per kg
+2024-02-03,Sukuma Wiki,Wakulima,33,per bundle
+2024-02-03,Onions,Wakulima,129,per kg
+2024-02-03,Maize,Wakulima,160,per tin
+2024-02-03,Potatoes,Wakulima,96,per kg
+2024-02-03,Cabbage,Wakulima,56,per piece
+2024-02-04,Tomatoes,Wakulima,80,per kg
+2024-02-04,Sukuma Wiki,Wakulima,28,per bundle
+2024-02-04,Onions,Wakulima,118,per kg
+2024-02-04,Maize,Wakulima,139,per tin
+2024-02-04,Potatoes,Wakulima,88,per kg
+2024-02-04,Cabbage,Wakulima,66,per piece
+2024-02-05,Tomatoes,Wakulima,73,per kg
+2024-02-05,Sukuma Wiki,Wakulima,31,per bundle
+2024-02-05,Onions,Wakulima,113,per kg
+2024-02-05,Maize,Wakulima,141,per tin
+2024-02-05,Potatoes,Wakulima,94,per kg
+2024-02-05,Cabbage,Wakulima,63,per piece
+2024-02-06,Tomatoes,Wakulima,77,per kg
+2024-02-06,Sukuma Wiki,Wakulima,30,per bundle
+2024-02-06,Onions,Wakulima,107,per kg
+2024-02-06,Maize,Wakulima,138,per tin
+2024-02-06,Potatoes,Wakulima,94,per kg
+2024-02-06,Cabbage,Wakulima,58,per piece
+2024-02-07,Tomatoes,Wakulima,77,per kg
+2024-02-07,Sukuma Wiki,Wakulima,31,per bundle
+2024-02-07,Onions,Wakulima,105,per kg
+2024-02-07,Maize,Wakulima,145,per tin
+2024-02-07,Potatoes,Wakulima,86,per kg
+2024-02-07,Cabbage,Wakulima,61,per piece
+2024-02-08,Tomatoes,Wakulima,71,per kg
+2024-02-08,Sukuma Wiki,Wakulima,32,per bundle
+2024-02-08,Onions,Wakulima,106,per kg
+2024-02-08,Maize,Wakulima,135,per tin
+2024-02-08,Potatoes,Wakulima,88,per kg
+2024-02-08,Cabbage,Wakulima,59,per piece
+2024-02-09,Tomatoes,Wakulima,72,per kg
+2024-02-09,Sukuma Wiki,Wakulima,26,per bundle
+2024-02-09,Onions,Wakulima,122,per kg
+2024-02-09,Maize,Wakulima,137,per tin
+2024-02-09,Potatoes,Wakulima,88,per kg
+2024-02-09,Cabbage,Wakulima,59,per piece
+2024-02-10,Tomatoes,Wakulima,79,per kg
+2024-02-10,Sukuma Wiki,Wakulima,31,per bundle
+2024-02-10,Onions,Wakulima,121,per kg
+2024-02-10,Maize,Wakulima,160,per tin
+2024-02-10,Potatoes,Wakulima,85,per kg
+2024-02-10,Cabbage,Wakulima,63,per piece
+2024-02-11,Tomatoes,Wakulima,76,per kg
+2024-02-11,Sukuma Wiki,Wakulima,29,per bundle
+2024-02-11,Onions,Wakulima,124,per kg
+2024-02-11,Maize,Wakulima,145,per tin
+2024-02-11,Potatoes,Wakulima,87,per kg
+2024-02-11,Cabbage,Wakulima,63,per piece
+2024-02-12,Tomatoes,Wakulima,70,per kg
+2024-02-12,Sukuma Wiki,Wakulima,28,per bundle
+2024-02-12,Onions,Wakulima,124,per kg
+2024-02-12,Maize,Wakulima,155,per tin
+2024-02-12,Potatoes,Wakulima,78,per kg
+2024-02-12,Cabbage,Wakulima,54,per piece
+2024-02-13,Tomatoes,Wakulima,73,per kg
+2024-02-13,Sukuma Wiki,Wakulima,32,per bundle
+2024-02-13,Onions,Wakulima,122,per kg
+2024-02-13,Maize,Wakulima,152,per tin
+2024-02-13,Potatoes,Wakulima,84,per kg
+2024-02-13,Cabbage,Wakulima,53,per piece
+2024-02-14,Tomatoes,Wakulima,82,per kg
+2024-02-14,Sukuma Wiki,Wakulima,30,per bundle
+2024-02-14,Onions,Wakulima,117,per kg
+2024-02-14,Maize,Wakulima,155,per tin
+2024-02-14,Potatoes,Wakulima,89,per kg
+2024-02-14,Cabbage,Wakulima,51,per piece
+2024-02-15,Tomatoes,Wakulima,81,per kg
+2024-02-15,Sukuma Wiki,Wakulima,27,per bundle
+2024-02-15,Onions,Wakulima,118,per kg
+2024-02-15,Maize,Wakulima,153,per tin
+2024-02-15,Potatoes,Wakulima,79,per kg
+2024-02-15,Cabbage,Wakulima,53,per piece
+2024-02-16,Tomatoes,Wakulima,70,per kg
+2024-02-16,Sukuma Wiki,Wakulima,29,per bundle
+2024-02-16,Onions,Wakulima,110,per kg
+2024-02-16,Maize,Wakulima,145,per tin
+2024-02-16,Potatoes,Wakulima,90,per kg
+2024-02-16,Cabbage,Wakulima,54,per piece
+2024-02-17,Tomatoes,Wakulima,82,per kg
+2024-02-17,Sukuma Wiki,Wakulima,28,per bundle
+2024-02-17,Onions,Wakulima,120,per kg
+2024-02-17,Maize,Wakulima,160,per tin
+2024-02-17,Potatoes,Wakulima,96,per kg
+2024-02-17,Cabbage,Wakulima,55,per piece
+2024-02-18,Tomatoes,Wakulima,79,per kg
+2024-02-18,Sukuma Wiki,Wakulima,28,per bundle
+2024-02-18,Onions,Wakulima,110,per kg
+2024-02-18,Maize,Wakulima,157,per tin
+2024-02-18,Potatoes,Wakulima,93,per kg
+2024-02-18,Cabbage,Wakulima,57,per piece
+2024-02-19,Tomatoes,Wakulima,80,per kg
+2024-02-19,Sukuma Wiki,Wakulima,29,per bundle
+2024-02-19,Onions,Wakulima,113,per kg
+2024-02-19,Maize,Wakulima,131,per tin
+2024-02-19,Potatoes,Wakulima,78,per kg
+2024-02-19,Cabbage,Wakulima,62,per piece
+2024-02-20,Tomatoes,Wakulima,83,per kg
+2024-02-20,Sukuma Wiki,Wakulima,29,per bundle
+2024-02-20,Onions,Wakulima,121,per kg
+2024-02-20,Maize,Wakulima,145,per tin
+2024-02-20,Potatoes,Wakulima,80,per kg
+2024-02-20,Cabbage,Wakulima,53,per piece
+2024-02-21,Tomatoes,Wakulima,73,per kg
+2024-02-21,Sukuma Wiki,Wakulima,32,per bundle
+2024-02-21,Onions,Wakulima,120,per kg
+2024-02-21,Maize,Wakulima,152,per tin
+2024-02-21,Potatoes,Wakulima,93,per kg
+2024-02-21,Cabbage,Wakulima,54,per piece
+2024-02-22,Tomatoes,Wakulima,72,per kg
+2024-02-22,Sukuma Wiki,Wakulima,25,per bundle
+2024-02-22,Onions,Wakulima,120,per kg
+2024-02-22,Maize,Wakulima,152,per tin
+2024-02-22,Potatoes,Wakulima,84,per kg
+2024-02-22,Cabbage,Wakulima,59,per piece
+2024-02-23,Tomatoes,Wakulima,71,per kg
+2024-02-23,Sukuma Wiki,Wakulima,32,per bundle
+2024-02-23,Onions,Wakulima,122,per kg
+2024-02-23,Maize,Wakulima,154,per tin
+2024-02-23,Potatoes,Wakulima,92,per kg
+2024-02-23,Cabbage,Wakulima,62,per piece
+2024-02-24,Tomatoes,Wakulima,73,per kg
+2024-02-24,Sukuma Wiki,Wakulima,32,per bundle
+2024-02-24,Onions,Wakulima,117,per kg
+2024-02-24,Maize,Wakulima,161,per tin
+2024-02-24,Potatoes,Wakulima,96,per kg
+2024-02-24,Cabbage,Wakulima,64,per piece
+2024-02-25,Tomatoes,Wakulima,85,per kg
+2024-02-25,Sukuma Wiki,Wakulima,28,per bundle
+2024-02-25,Onions,Wakulima,126,per kg
+2024-02-25,Maize,Wakulima,141,per tin
+2024-02-25,Potatoes,Wakulima,97,per kg
+2024-02-25,Cabbage,Wakulima,64,per piece
+2024-02-26,Tomatoes,Wakulima,72,per kg
+2024-02-26,Sukuma Wiki,Wakulima,31,per bundle
+2024-02-26,Onions,Wakulima,114,per kg
+2024-02-26,Maize,Wakulima,138,per tin
+2024-02-26,Potatoes,Wakulima,91,per kg
+2024-02-26,Cabbage,Wakulima,54,per piece
+2024-02-27,Tomatoes,Wakulima,69,per kg
+2024-02-27,Sukuma Wiki,Wakulima,26,per bundle
+2024-02-27,Onions,Wakulima,111,per kg
+2024-02-27,Maize,Wakulima,152,per tin
+2024-02-27,Potatoes,Wakulima,94,per kg
+2024-02-27,Cabbage,Wakulima,55,per piece
+2024-02-28,Tomatoes,Wakulima,79,per kg
+2024-02-28,Sukuma Wiki,Wakulima,28,per bundle
+2024-02-28,Onions,Wakulima,124,per kg
+2024-02-28,Maize,Wakulima,144,per tin
+2024-02-28,Potatoes,Wakulima,94,per kg
+2024-02-28,Cabbage,Wakulima,53,per piece
+2024-02-29,Tomatoes,Wakulima,84,per kg
+2024-02-29,Sukuma Wiki,Wakulima,26,per bundle
+2024-02-29,Onions,Wakulima,124,per kg
+2024-02-29,Maize,Wakulima,137,per tin
+2024-02-29,Potatoes,Wakulima,79,per kg
+2024-02-29,Cabbage,Wakulima,56,per piece
+2024-03-01,Tomatoes,Wakulima,84,per kg
+2024-03-01,Sukuma Wiki,Wakulima,29,per bundle
+2024-03-01,Onions,Wakulima,123,per kg
+2024-03-01,Maize,Wakulima,151,per tin
+2024-03-01,Potatoes,Wakulima,88,per kg
+2024-03-01,Cabbage,Wakulima,61,per piece
+2024-03-02,Tomatoes,Wakulima,81,per kg
+2024-03-02,Sukuma Wiki,Wakulima,33,per bundle
+2024-03-02,Onions,Wakulima,117,per kg
+2024-03-02,Maize,Wakulima,168,per tin
+2024-03-02,Potatoes,Wakulima,96,per kg
+2024-03-02,Cabbage,Wakulima,66,per piece
+2024-03-03,Tomatoes,Wakulima,88,per kg
+2024-03-03,Sukuma Wiki,Wakulima,33,per bundle
+2024-03-03,Onions,Wakulima,124,per kg
+2024-03-03,Maize,Wakulima,148,per tin
+2024-03-03,Potatoes,Wakulima,98,per kg
+2024-03-03,Cabbage,Wakulima,61,per piece
+2024-03-04,Tomatoes,Wakulima,78,per kg
+2024-03-04,Sukuma Wiki,Wakulima,33,per bundle
+2024-03-04,Onions,Wakulima,125,per kg
+2024-03-04,Maize,Wakulima,146,per tin
+2024-03-04,Potatoes,Wakulima,87,per kg
+2024-03-04,Cabbage,Wakulima,59,per piece
+2024-03-05,Tomatoes,Wakulima,79,per kg
+2024-03-05,Sukuma Wiki,Wakulima,28,per bundle
+2024-03-05,Onions,Wakulima,113,per kg
+2024-03-05,Maize,Wakulima,149,per tin
+2024-03-05,Potatoes,Wakulima,98,per kg
+2024-03-05,Cabbage,Wakulima,62,per piece
+2024-03-06,Tomatoes,Wakulima,87,per kg
+2024-03-06,Sukuma Wiki,Wakulima,31,per bundle
+2024-03-06,Onions,Wakulima,117,per kg
+2024-03-06,Maize,Wakulima,152,per tin
+2024-03-06,Potatoes,Wakulima,82,per kg
+2024-03-06,Cabbage,Wakulima,58,per piece
+2024-03-07,Tomatoes,Wakulima,79,per kg
+2024-03-07,Sukuma Wiki,Wakulima,31,per bundle
+2024-03-07,Onions,Wakulima,124,per kg
+2024-03-07,Maize,Wakulima,150,per tin
+2024-03-07,Potatoes,Wakulima,90,per kg
+2024-03-07,Cabbage,Wakulima,57,per piece
+2024-03-08,Tomatoes,Wakulima,80,per kg
+2024-03-08,Sukuma Wiki,Wakulima,33,per bundle
+2024-03-08,Onions,Wakulima,127,per kg
+2024-03-08,Maize,Wakulima,143,per tin
+2024-03-08,Potatoes,Wakulima,83,per kg
+2024-03-08,Cabbage,Wakulima,60,per piece
+2024-03-09,Tomatoes,Wakulima,87,per kg
+2024-03-09,Sukuma Wiki,Wakulima,30,per bundle
+2024-03-09,Onions,Wakulima,133,per kg
+2024-03-09,Maize,Wakulima,164,per tin
+2024-03-09,Potatoes,Wakulima,98,per kg
+2024-03-09,Cabbage,Wakulima,60,per piece
+2024-03-10,Tomatoes,Wakulima,80,per kg
+2024-03-10,Sukuma Wiki,Wakulima,28,per bundle
+2024-03-10,Onions,Wakulima,122,per kg
+2024-03-10,Maize,Wakulima,158,per tin
+2024-03-10,Potatoes,Wakulima,101,per kg
+2024-03-10,Cabbage,Wakulima,58,per piece
+2024-03-11,Tomatoes,Wakulima,79,per kg
+2024-03-11,Sukuma Wiki,Wakulima,31,per bundle
+2024-03-11,Onions,Wakulima,115,per kg
+2024-03-11,Maize,Wakulima,155,per tin
+2024-03-11,Potatoes,Wakulima,91,per kg
+2024-03-11,Cabbage,Wakulima,57,per piece
+2024-03-12,Tomatoes,Wakulima,83,per kg
+2024-03-12,Sukuma Wiki,Wakulima,26,per bundle
+2024-03-12,Onions,Wakulima,126,per kg
+2024-03-12,Maize,Wakulima,157,per tin
+2024-03-12,Potatoes,Wakulima,84,per kg
+2024-03-12,Cabbage,Wakulima,59,per piece
+2024-03-13,Tomatoes,Wakulima,75,per kg
+2024-03-13,Sukuma Wiki,Wakulima,34,per bundle
+2024-03-13,Onions,Wakulima,121,per kg
+2024-03-13,Maize,Wakulima,140,per tin
+2024-03-13,Potatoes,Wakulima,86,per kg
+2024-03-13,Cabbage,Wakulima,64,per piece
+2024-03-14,Tomatoes,Wakulima,80,per kg
+2024-03-14,Sukuma Wiki,Wakulima,33,per bundle
+2024-03-14,Onions,Wakulima,124,per kg
+2024-03-14,Maize,Wakulima,162,per tin
+2024-03-14,Potatoes,Wakulima,92,per kg
+2024-03-14,Cabbage,Wakulima,66,per piece
+2024-03-15,Tomatoes,Wakulima,87,per kg
+2024-03-15,Sukuma Wiki,Wakulima,31,per bundle
+2024-03-15,Onions,Wakulima,125,per kg
+2024-03-15,Maize,Wakulima,151,per tin
+2024-03-15,Potatoes,Wakulima,97,per kg
+2024-03-15,Cabbage,Wakulima,61,per piece
+2024-03-16,Tomatoes,Wakulima,91,per kg
+2024-03-16,Sukuma Wiki,Wakulima,34,per bundle
+2024-03-16,Onions,Wakulima,126,per kg
+2024-03-16,Maize,Wakulima,153,per tin
+2024-03-16,Potatoes,Wakulima,91,per kg
+2024-03-16,Cabbage,Wakulima,65,per piece
+2024-03-17,Tomatoes,Wakulima,89,per kg
+2024-03-17,Sukuma Wiki,Wakulima,32,per bundle
+2024-03-17,Onions,Wakulima,129,per kg
+2024-03-17,Maize,Wakulima,153,per tin
+2024-03-17,Potatoes,Wakulima,88,per kg
+2024-03-17,Cabbage,Wakulima,61,per piece
+2024-03-18,Tomatoes,Wakulima,77,per kg
+2024-03-18,Sukuma Wiki,Wakulima,29,per bundle
+2024-03-18,Onions,Wakulima,122,per kg
+2024-03-18,Maize,Wakulima,142,per tin
+2024-03-18,Potatoes,Wakulima,86,per kg
+2024-03-18,Cabbage,Wakulima,63,per piece
+2024-03-19,Tomatoes,Wakulima,84,per kg
+2024-03-19,Sukuma Wiki,Wakulima,27,per bundle
+2024-03-19,Onions,Wakulima,119,per kg
+2024-03-19,Maize,Wakulima,152,per tin
+2024-03-19,Potatoes,Wakulima,89,per kg
+2024-03-19,Cabbage,Wakulima,57,per piece
+2024-03-20,Tomatoes,Wakulima,79,per kg
+2024-03-20,Sukuma Wiki,Wakulima,33,per bundle
+2024-03-20,Onions,Wakulima,122,per kg
+2024-03-20,Maize,Wakulima,156,per tin
+2024-03-20,Potatoes,Wakulima,97,per kg
+2024-03-20,Cabbage,Wakulima,63,per piece
+2024-03-21,Tomatoes,Wakulima,79,per kg
+2024-03-21,Sukuma Wiki,Wakulima,26,per bundle
+2024-03-21,Onions,Wakulima,118,per kg
+2024-03-21,Maize,Wakulima,157,per tin
+2024-03-21,Potatoes,Wakulima,97,per kg
+2024-03-21,Cabbage,Wakulima,66,per piece
+2024-03-22,Tomatoes,Wakulima,79,per kg
+2024-03-22,Sukuma Wiki,Wakulima,32,per bundle
+2024-03-22,Onions,Wakulima,122,per kg
+2024-03-22,Maize,Wakulima,153,per tin
+2024-03-22,Potatoes,Wakulima,86,per kg
+2024-03-22,Cabbage,Wakulima,57,per piece
+2024-03-23,Tomatoes,Wakulima,84,per kg
+2024-03-23,Sukuma Wiki,Wakulima,28,per bundle
+2024-03-23,Onions,Wakulima,124,per kg
+2024-03-23,Maize,Wakulima,163,per tin
+2024-03-23,Potatoes,Wakulima,94,per kg
+2024-03-23,Cabbage,Wakulima,59,per piece
+2024-03-24,Tomatoes,Wakulima,84,per kg
+2024-03-24,Sukuma Wiki,Wakulima,29,per bundle
+2024-03-24,Onions,Wakulima,129,per kg
+2024-03-24,Maize,Wakulima,147,per tin
+2024-03-24,Potatoes,Wakulima,93,per kg
+2024-03-24,Cabbage,Wakulima,64,per piece
+2024-03-25,Tomatoes,Wakulima,73,per kg
+2024-03-25,Sukuma Wiki,Wakulima,31,per bundle
+2024-03-25,Onions,Wakulima,114,per kg
+2024-03-25,Maize,Wakulima,150,per tin
+2024-03-25,Potatoes,Wakulima,83,per kg
+2024-03-25,Cabbage,Wakulima,59,per piece
+2024-03-26,Tomatoes,Wakulima,76,per kg
+2024-03-26,Sukuma Wiki,Wakulima,29,per bundle
+2024-03-26,Onions,Wakulima,126,per kg
+2024-03-26,Maize,Wakulima,148,per tin
+2024-03-26,Potatoes,Wakulima,95,per kg
+2024-03-26,Cabbage,Wakulima,64,per piece
+2024-03-27,Tomatoes,Wakulima,77,per kg
+2024-03-27,Sukuma Wiki,Wakulima,27,per bundle
+2024-03-27,Onions,Wakulima,111,per kg
+2024-03-27,Maize,Wakulima,152,per tin
+2024-03-27,Potatoes,Wakulima,100,per kg
+2024-03-27,Cabbage,Wakulima,58,per piece
+2024-03-28,Tomatoes,Wakulima,83,per kg
+2024-03-28,Sukuma Wiki,Wakulima,32,per bundle
+2024-03-28,Onions,Wakulima,124,per kg
+2024-03-28,Maize,Wakulima,157,per tin
+2024-03-28,Potatoes,Wakulima,99,per kg
+2024-03-28,Cabbage,Wakulima,57,per piece
+2024-03-29,Tomatoes,Wakulima,73,per kg
+2024-03-29,Sukuma Wiki,Wakulima,27,per bundle
+2024-03-29,Onions,Wakulima,113,per kg
+2024-03-29,Maize,Wakulima,155,per tin
+2024-03-29,Potatoes,Wakulima,92,per kg
+2024-03-29,Cabbage,Wakulima,57,per piece
+2024-03-30,Tomatoes,Wakulima,88,per kg
+2024-03-30,Sukuma Wiki,Wakulima,34,per bundle
+2024-03-30,Onions,Wakulima,120,per kg
+2024-03-30,Maize,Wakulima,161,per tin
+2024-03-30,Potatoes,Wakulima,100,per kg
+2024-03-30,Cabbage,Wakulima,59,per piece
+2024-03-31,Tomatoes,Wakulima,90,per kg
+2024-03-31,Sukuma Wiki,Wakulima,35,per bundle
+2024-03-31,Onions,Wakulima,119,per kg
+2024-03-31,Maize,Wakulima,147,per tin
+2024-03-31,Potatoes,Wakulima,92,per kg
+2024-03-31,Cabbage,Wakulima,65,per piece
+2024-04-01,Tomatoes,Wakulima,100,per kg
+2024-04-01,Sukuma Wiki,Wakulima,34,per bundle
+2024-04-01,Onions,Wakulima,143,per kg
+2024-04-01,Maize,Wakulima,163,per tin
+2024-04-01,Potatoes,Wakulima,108,per kg
+2024-04-01,Cabbage,Wakulima,71,per piece
+2024-04-02,Tomatoes,Wakulima,87,per kg
+2024-04-02,Sukuma Wiki,Wakulima,37,per bundle
+2024-04-02,Onions,Wakulima,146,per kg
+2024-04-02,Maize,Wakulima,176,per tin
+2024-04-02,Potatoes,Wakulima,98,per kg
+2024-04-02,Cabbage,Wakulima,75,per piece
+2024-04-03,Tomatoes,Wakulima,97,per kg
+2024-04-03,Sukuma Wiki,Wakulima,33,per bundle
+2024-04-03,Onions,Wakulima,138,per kg
+2024-04-03,Maize,Wakulima,170,per tin
+2024-04-03,Potatoes,Wakulima,105,per kg
+2024-04-03,Cabbage,Wakulima,67,per piece
+2024-04-04,Tomatoes,Wakulima,99,per kg
+2024-04-04,Sukuma Wiki,Wakulima,37,per bundle
+2024-04-04,Onions,Wakulima,131,per kg
+2024-04-04,Maize,Wakulima,185,per tin
+2024-04-04,Potatoes,Wakulima,107,per kg
+2024-04-04,Cabbage,Wakulima,73,per piece
+2024-04-05,Tomatoes,Wakulima,96,per kg
+2024-04-05,Sukuma Wiki,Wakulima,34,per bundle
+2024-04-05,Onions,Wakulima,144,per kg
+2024-04-05,Maize,Wakulima,185,per tin
+2024-04-05,Potatoes,Wakulima,100,per kg
+2024-04-05,Cabbage,Wakulima,73,per piece
+2024-04-06,Tomatoes,Wakulima,98,per kg
+2024-04-06,Sukuma Wiki,Wakulima,36,per bundle
+2024-04-06,Onions,Wakulima,145,per kg
+2024-04-06,Maize,Wakulima,188,per tin
+2024-04-06,Potatoes,Wakulima,106,per kg
+2024-04-06,Cabbage,Wakulima,77,per piece
+2024-04-07,Tomatoes,Wakulima,103,per kg
+2024-04-07,Sukuma Wiki,Wakulima,33,per bundle
+2024-04-07,Onions,Wakulima,154,per kg
+2024-04-07,Maize,Wakulima,176,per tin
+2024-04-07,Potatoes,Wakulima,109,per kg
+2024-04-07,Cabbage,Wakulima,74,per piece
+2024-04-08,Tomatoes,Wakulima,91,per kg
+2024-04-08,Sukuma Wiki,Wakulima,31,per bundle
+2024-04-08,Onions,Wakulima,146,per kg
+2024-04-08,Maize,Wakulima,166,per tin
+2024-04-08,Potatoes,Wakulima,99,per kg
+2024-04-08,Cabbage,Wakulima,73,per piece
+2024-04-09,Tomatoes,Wakulima,90,per kg
+2024-04-09,Sukuma Wiki,Wakulima,38,per bundle
+2024-04-09,Onions,Wakulima,143,per kg
+2024-04-09,Maize,Wakulima,168,per tin
+2024-04-09,Potatoes,Wakulima,96,per kg
+2024-04-09,Cabbage,Wakulima,75,per piece
+2024-04-10,Tomatoes,Wakulima,86,per kg
+2024-04-10,Sukuma Wiki,Wakulima,36,per bundle
+2024-04-10,Onions,Wakulima,139,per kg
+2024-04-10,Maize,Wakulima,180,per tin
+2024-04-10,Potatoes,Wakulima,108,per kg
+2024-04-10,Cabbage,Wakulima,71,per piece
+2024-04-11,Tomatoes,Wakulima,93,per kg
+2024-04-11,Sukuma Wiki,Wakulima,37,per bundle
+2024-04-11,Onions,Wakulima,131,per kg
+2024-04-11,Maize,Wakulima,167,per tin
+2024-04-11,Potatoes,Wakulima,108,per kg
+2024-04-11,Cabbage,Wakulima,67,per piece
+2024-04-12,Tomatoes,Wakulima,94,per kg
+2024-04-12,Sukuma Wiki,Wakulima,34,per bundle
+2024-04-12,Onions,Wakulima,140,per kg
+2024-04-12,Maize,Wakulima,172,per tin
+2024-04-12,Potatoes,Wakulima,109,per kg
+2024-04-12,Cabbage,Wakulima,67,per piece
+2024-04-13,Tomatoes,Wakulima,101,per kg
+2024-04-13,Sukuma Wiki,Wakulima,35,per bundle
+2024-04-13,Onions,Wakulima,141,per kg
+2024-04-13,Maize,Wakulima,173,per tin
+2024-04-13,Potatoes,Wakulima,104,per kg
+2024-04-13,Cabbage,Wakulima,68,per piece
+2024-04-14,Tomatoes,Wakulima,98,per kg
+2024-04-14,Sukuma Wiki,Wakulima,39,per bundle
+2024-04-14,Onions,Wakulima,140,per kg
+2024-04-14,Maize,Wakulima,176,per tin
+2024-04-14,Potatoes,Wakulima,109,per kg
+2024-04-14,Cabbage,Wakulima,76,per piece
+2024-04-15,Tomatoes,Wakulima,101,per kg
+2024-04-15,Sukuma Wiki,Wakulima,35,per bundle
+2024-04-15,Onions,Wakulima,135,per kg
+2024-04-15,Maize,Wakulima,164,per tin
+2024-04-15,Potatoes,Wakulima,99,per kg
+2024-04-15,Cabbage,Wakulima,66,per piece
+2024-04-16,Tomatoes,Wakulima,88,per kg
+2024-04-16,Sukuma Wiki,Wakulima,31,per bundle
+2024-04-16,Onions,Wakulima,140,per kg
+2024-04-16,Maize,Wakulima,168,per tin
+2024-04-16,Potatoes,Wakulima,113,per kg
+2024-04-16,Cabbage,Wakulima,70,per piece
+2024-04-17,Tomatoes,Wakulima,96,per kg
+2024-04-17,Sukuma Wiki,Wakulima,32,per bundle
+2024-04-17,Onions,Wakulima,147,per kg
+2024-04-17,Maize,Wakulima,174,per tin
+2024-04-17,Potatoes,Wakulima,111,per kg
+2024-04-17,Cabbage,Wakulima,70,per piece
+2024-04-18,Tomatoes,Wakulima,93,per kg
+2024-04-18,Sukuma Wiki,Wakulima,34,per bundle
+2024-04-18,Onions,Wakulima,133,per kg
+2024-04-18,Maize,Wakulima,163,per tin
+2024-04-18,Potatoes,Wakulima,113,per kg
+2024-04-18,Cabbage,Wakulima,69,per piece
+2024-04-19,Tomatoes,Wakulima,98,per kg
+2024-04-19,Sukuma Wiki,Wakulima,34,per bundle
+2024-04-19,Onions,Wakulima,131,per kg
+2024-04-19,Maize,Wakulima,177,per tin
+2024-04-19,Potatoes,Wakulima,97,per kg
+2024-04-19,Cabbage,Wakulima,65,per piece
+2024-04-20,Tomatoes,Wakulima,99,per kg
+2024-04-20,Sukuma Wiki,Wakulima,35,per bundle
+2024-04-20,Onions,Wakulima,156,per kg
+2024-04-20,Maize,Wakulima,173,per tin
+2024-04-20,Potatoes,Wakulima,115,per kg
+2024-04-20,Cabbage,Wakulima,74,per piece
+2024-04-21,Tomatoes,Wakulima,102,per kg
+2024-04-21,Sukuma Wiki,Wakulima,34,per bundle
+2024-04-21,Onions,Wakulima,147,per kg
+2024-04-21,Maize,Wakulima,181,per tin
+2024-04-21,Potatoes,Wakulima,109,per kg
+2024-04-21,Cabbage,Wakulima,77,per piece
+2024-04-22,Tomatoes,Wakulima,101,per kg
+2024-04-22,Sukuma Wiki,Wakulima,33,per bundle
+2024-04-22,Onions,Wakulima,142,per kg
+2024-04-22,Maize,Wakulima,176,per tin
+2024-04-22,Potatoes,Wakulima,109,per kg
+2024-04-22,Cabbage,Wakulima,75,per piece
+2024-04-23,Tomatoes,Wakulima,88,per kg
+2024-04-23,Sukuma Wiki,Wakulima,32,per bundle
+2024-04-23,Onions,Wakulima,142,per kg
+2024-04-23,Maize,Wakulima,166,per tin
+2024-04-23,Potatoes,Wakulima,99,per kg
+2024-04-23,Cabbage,Wakulima,64,per piece
+2024-04-24,Tomatoes,Wakulima,85,per kg
+2024-04-24,Sukuma Wiki,Wakulima,34,per bundle
+2024-04-24,Onions,Wakulima,141,per kg
+2024-04-24,Maize,Wakulima,169,per tin
+2024-04-24,Potatoes,Wakulima,100,per kg
+2024-04-24,Cabbage,Wakulima,72,per piece
+2024-04-25,Tomatoes,Wakulima,96,per kg
+2024-04-25,Sukuma Wiki,Wakulima,34,per bundle
+2024-04-25,Onions,Wakulima,143,per kg
+2024-04-25,Maize,Wakulima,184,per tin
+2024-04-25,Potatoes,Wakulima,110,per kg
+2024-04-25,Cabbage,Wakulima,71,per piece
+2024-04-26,Tomatoes,Wakulima,96,per kg
+2024-04-26,Sukuma Wiki,Wakulima,38,per bundle
+2024-04-26,Onions,Wakulima,138,per kg
+2024-04-26,Maize,Wakulima,175,per tin
+2024-04-26,Potatoes,Wakulima,107,per kg
+2024-04-26,Cabbage,Wakulima,74,per piece
+2024-04-27,Tomatoes,Wakulima,103,per kg
+2024-04-27,Sukuma Wiki,Wakulima,33,per bundle
+2024-04-27,Onions,Wakulima,140,per kg
+2024-04-27,Maize,Wakulima,178,per tin
+2024-04-27,Potatoes,Wakulima,114,per kg
+2024-04-27,Cabbage,Wakulima,74,per piece
+2024-04-28,Tomatoes,Wakulima,94,per kg
+2024-04-28,Sukuma Wiki,Wakulima,33,per bundle
+2024-04-28,Onions,Wakulima,150,per kg
+2024-04-28,Maize,Wakulima,187,per tin
+2024-04-28,Potatoes,Wakulima,118,per kg
+2024-04-28,Cabbage,Wakulima,73,per piece
+2024-04-29,Tomatoes,Wakulima,93,per kg
+2024-04-29,Sukuma Wiki,Wakulima,31,per bundle
+2024-04-29,Onions,Wakulima,130,per kg
+2024-04-29,Maize,Wakulima,172,per tin
+2024-04-29,Potatoes,Wakulima,101,per kg
+2024-04-29,Cabbage,Wakulima,66,per piece
+2024-04-30,Tomatoes,Wakulima,87,per kg
+2024-04-30,Sukuma Wiki,Wakulima,38,per bundle
+2024-04-30,Onions,Wakulima,146,per kg
+2024-04-30,Maize,Wakulima,176,per tin
+2024-04-30,Potatoes,Wakulima,113,per kg
+2024-04-30,Cabbage,Wakulima,75,per piece
+2024-05-01,Tomatoes,Wakulima,96,per kg
+2024-05-01,Sukuma Wiki,Wakulima,33,per bundle
+2024-05-01,Onions,Wakulima,130,per kg
+2024-05-01,Maize,Wakulima,180,per tin
+2024-05-01,Potatoes,Wakulima,104,per kg
+2024-05-01,Cabbage,Wakulima,71,per piece
+2024-05-02,Tomatoes,Wakulima,100,per kg
+2024-05-02,Sukuma Wiki,Wakulima,32,per bundle
+2024-05-02,Onions,Wakulima,141,per kg
+2024-05-02,Maize,Wakulima,177,per tin
+2024-05-02,Potatoes,Wakulima,105,per kg
+2024-05-02,Cabbage,Wakulima,65,per piece
+2024-05-03,Tomatoes,Wakulima,91,per kg
+2024-05-03,Sukuma Wiki,Wakulima,33,per bundle
+2024-05-03,Onions,Wakulima,143,per kg
+2024-05-03,Maize,Wakulima,183,per tin
+2024-05-03,Potatoes,Wakulima,102,per kg
+2024-05-03,Cabbage,Wakulima,72,per piece
+2024-05-04,Tomatoes,Wakulima,95,per kg
+2024-05-04,Sukuma Wiki,Wakulima,40,per bundle
+2024-05-04,Onions,Wakulima,153,per kg
+2024-05-04,Maize,Wakulima,184,per tin
+2024-05-04,Potatoes,Wakulima,109,per kg
+2024-05-04,Cabbage,Wakulima,71,per piece
+2024-05-05,Tomatoes,Wakulima,95,per kg
+2024-05-05,Sukuma Wiki,Wakulima,40,per bundle
+2024-05-05,Onions,Wakulima,144,per kg
+2024-05-05,Maize,Wakulima,183,per tin
+2024-05-05,Potatoes,Wakulima,119,per kg
+2024-05-05,Cabbage,Wakulima,75,per piece
+2024-05-06,Tomatoes,Wakulima,94,per kg
+2024-05-06,Sukuma Wiki,Wakulima,34,per bundle
+2024-05-06,Onions,Wakulima,133,per kg
+2024-05-06,Maize,Wakulima,171,per tin
+2024-05-06,Potatoes,Wakulima,109,per kg
+2024-05-06,Cabbage,Wakulima,71,per piece
+2024-05-07,Tomatoes,Wakulima,97,per kg
+2024-05-07,Sukuma Wiki,Wakulima,32,per bundle
+2024-05-07,Onions,Wakulima,140,per kg
+2024-05-07,Maize,Wakulima,184,per tin
+2024-05-07,Potatoes,Wakulima,104,per kg
+2024-05-07,Cabbage,Wakulima,72,per piece
+2024-05-08,Tomatoes,Wakulima,87,per kg
+2024-05-08,Sukuma Wiki,Wakulima,39,per bundle
+2024-05-08,Onions,Wakulima,142,per kg
+2024-05-08,Maize,Wakulima,168,per tin
+2024-05-08,Potatoes,Wakulima,99,per kg
+2024-05-08,Cabbage,Wakulima,70,per piece
+2024-05-09,Tomatoes,Wakulima,94,per kg
+2024-05-09,Sukuma Wiki,Wakulima,31,per bundle
+2024-05-09,Onions,Wakulima,149,per kg
+2024-05-09,Maize,Wakulima,184,per tin
+2024-05-09,Potatoes,Wakulima,104,per kg
+2024-05-09,Cabbage,Wakulima,65,per piece
+2024-05-10,Tomatoes,Wakulima,99,per kg
+2024-05-10,Sukuma Wiki,Wakulima,35,per bundle
+2024-05-10,Onions,Wakulima,144,per kg
+2024-05-10,Maize,Wakulima,174,per tin
+2024-05-10,Potatoes,Wakulima,101,per kg
+2024-05-10,Cabbage,Wakulima,74,per piece
+2024-05-11,Tomatoes,Wakulima,106,per kg
+2024-05-11,Sukuma Wiki,Wakulima,34,per bundle
+2024-05-11,Onions,Wakulima,147,per kg
+2024-05-11,Maize,Wakulima,180,per tin
+2024-05-11,Potatoes,Wakulima,118,per kg
+2024-05-11,Cabbage,Wakulima,73,per piece
+2024-05-12,Tomatoes,Wakulima,104,per kg
+2024-05-12,Sukuma Wiki,Wakulima,39,per bundle
+2024-05-12,Onions,Wakulima,142,per kg
+2024-05-12,Maize,Wakulima,190,per tin
+2024-05-12,Potatoes,Wakulima,109,per kg
+2024-05-12,Cabbage,Wakulima,78,per piece
+2024-05-13,Tomatoes,Wakulima,93,per kg
+2024-05-13,Sukuma Wiki,Wakulima,37,per bundle
+2024-05-13,Onions,Wakulima,135,per kg
+2024-05-13,Maize,Wakulima,169,per tin
+2024-05-13,Potatoes,Wakulima,106,per kg
+2024-05-13,Cabbage,Wakulima,75,per piece
+2024-05-14,Tomatoes,Wakulima,93,per kg
+2024-05-14,Sukuma Wiki,Wakulima,32,per bundle
+2024-05-14,Onions,Wakulima,140,per kg
+2024-05-14,Maize,Wakulima,170,per tin
+2024-05-14,Potatoes,Wakulima,106,per kg
+2024-05-14,Cabbage,Wakulima,70,per piece
+2024-05-15,Tomatoes,Wakulima,93,per kg
+2024-05-15,Sukuma Wiki,Wakulima,33,per bundle
+2024-05-15,Onions,Wakulima,133,per kg
+2024-05-15,Maize,Wakulima,179,per tin
+2024-05-15,Potatoes,Wakulima,106,per kg
+2024-05-15,Cabbage,Wakulima,66,per piece
+2024-05-16,Tomatoes,Wakulima,98,per kg
+2024-05-16,Sukuma Wiki,Wakulima,31,per bundle
+2024-05-16,Onions,Wakulima,144,per kg
+2024-05-16,Maize,Wakulima,179,per tin
+2024-05-16,Potatoes,Wakulima,110,per kg
+2024-05-16,Cabbage,Wakulima,68,per piece
+2024-05-17,Tomatoes,Wakulima,96,per kg
+2024-05-17,Sukuma Wiki,Wakulima,37,per bundle
+2024-05-17,Onions,Wakulima,149,per kg
+2024-05-17,Maize,Wakulima,174,per tin
+2024-05-17,Potatoes,Wakulima,97,per kg
+2024-05-17,Cabbage,Wakulima,70,per piece
+2024-05-18,Tomatoes,Wakulima,100,per kg
+2024-05-18,Sukuma Wiki,Wakulima,39,per bundle
+2024-05-18,Onions,Wakulima,154,per kg
+2024-05-18,Maize,Wakulima,181,per tin
+2024-05-18,Potatoes,Wakulima,111,per kg
+2024-05-18,Cabbage,Wakulima,72,per piece
+2024-05-19,Tomatoes,Wakulima,102,per kg
+2024-05-19,Sukuma Wiki,Wakulima,36,per bundle
+2024-05-19,Onions,Wakulima,150,per kg
+2024-05-19,Maize,Wakulima,175,per tin
+2024-05-19,Potatoes,Wakulima,110,per kg
+2024-05-19,Cabbage,Wakulima,79,per piece
+2024-05-20,Tomatoes,Wakulima,91,per kg
+2024-05-20,Sukuma Wiki,Wakulima,36,per bundle
+2024-05-20,Onions,Wakulima,143,per kg
+2024-05-20,Maize,Wakulima,183,per tin
+2024-05-20,Potatoes,Wakulima,111,per kg
+2024-05-20,Cabbage,Wakulima,74,per piece
+2024-05-21,Tomatoes,Wakulima,92,per kg
+2024-05-21,Sukuma Wiki,Wakulima,33,per bundle
+2024-05-21,Onions,Wakulima,144,per kg
+2024-05-21,Maize,Wakulima,180,per tin
+2024-05-21,Potatoes,Wakulima,112,per kg
+2024-05-21,Cabbage,Wakulima,64,per piece
+2024-05-22,Tomatoes,Wakulima,87,per kg
+2024-05-22,Sukuma Wiki,Wakulima,36,per bundle
+2024-05-22,Onions,Wakulima,148,per kg
+2024-05-22,Maize,Wakulima,186,per tin
+2024-05-22,Potatoes,Wakulima,109,per kg
+2024-05-22,Cabbage,Wakulima,69,per piece
+2024-05-23,Tomatoes,Wakulima,87,per kg
+2024-05-23,Sukuma Wiki,Wakulima,36,per bundle
+2024-05-23,Onions,Wakulima,147,per kg
+2024-05-23,Maize,Wakulima,173,per tin
+2024-05-23,Potatoes,Wakulima,108,per kg
+2024-05-23,Cabbage,Wakulima,74,per piece
+2024-05-24,Tomatoes,Wakulima,86,per kg
+2024-05-24,Sukuma Wiki,Wakulima,37,per bundle
+2024-05-24,Onions,Wakulima,136,per kg
+2024-05-24,Maize,Wakulima,171,per tin
+2024-05-24,Potatoes,Wakulima,99,per kg
+2024-05-24,Cabbage,Wakulima,70,per piece
+2024-05-25,Tomatoes,Wakulima,99,per kg
+2024-05-25,Sukuma Wiki,Wakulima,39,per bundle
+2024-05-25,Onions,Wakulima,140,per kg
+2024-05-25,Maize,Wakulima,173,per tin
+2024-05-25,Potatoes,Wakulima,117,per kg
+2024-05-25,Cabbage,Wakulima,74,per piece
+2024-05-26,Tomatoes,Wakulima,94,per kg
+2024-05-26,Sukuma Wiki,Wakulima,40,per bundle
+2024-05-26,Onions,Wakulima,140,per kg
+2024-05-26,Maize,Wakulima,182,per tin
+2024-05-26,Potatoes,Wakulima,106,per kg
+2024-05-26,Cabbage,Wakulima,70,per piece
+2024-05-27,Tomatoes,Wakulima,86,per kg
+2024-05-27,Sukuma Wiki,Wakulima,37,per bundle
+2024-05-27,Onions,Wakulima,148,per kg
+2024-05-27,Maize,Wakulima,178,per tin
+2024-05-27,Potatoes,Wakulima,99,per kg
+2024-05-27,Cabbage,Wakulima,69,per piece
+2024-05-28,Tomatoes,Wakulima,91,per kg
+2024-05-28,Sukuma Wiki,Wakulima,35,per bundle
+2024-05-28,Onions,Wakulima,142,per kg
+2024-05-28,Maize,Wakulima,172,per tin
+2024-05-28,Potatoes,Wakulima,100,per kg
+2024-05-28,Cabbage,Wakulima,74,per piece
+2024-05-29,Tomatoes,Wakulima,89,per kg
+2024-05-29,Sukuma Wiki,Wakulima,34,per bundle
+2024-05-29,Onions,Wakulima,139,per kg
+2024-05-29,Maize,Wakulima,168,per tin
+2024-05-29,Potatoes,Wakulima,106,per kg
+2024-05-29,Cabbage,Wakulima,70,per piece
+2024-05-30,Tomatoes,Wakulima,101,per kg
+2024-05-30,Sukuma Wiki,Wakulima,33,per bundle
+2024-05-30,Onions,Wakulima,149,per kg
+2024-05-30,Maize,Wakulima,178,per tin
+2024-05-30,Potatoes,Wakulima,101,per kg
+2024-05-30,Cabbage,Wakulima,70,per piece
+2024-05-31,Tomatoes,Wakulima,96,per kg
+2024-05-31,Sukuma Wiki,Wakulima,37,per bundle
+2024-05-31,Onions,Wakulima,131,per kg
+2024-05-31,Maize,Wakulima,177,per tin
+2024-05-31,Potatoes,Wakulima,105,per kg
+2024-05-31,Cabbage,Wakulima,74,per piece
+2024-06-01,Tomatoes,Wakulima,82,per kg
+2024-06-01,Sukuma Wiki,Wakulima,34,per bundle
+2024-06-01,Onions,Wakulima,130,per kg
+2024-06-01,Maize,Wakulima,156,per tin
+2024-06-01,Potatoes,Wakulima,98,per kg
+2024-06-01,Cabbage,Wakulima,65,per piece
+2024-06-02,Tomatoes,Wakulima,88,per kg
+2024-06-02,Sukuma Wiki,Wakulima,34,per bundle
+2024-06-02,Onions,Wakulima,131,per kg
+2024-06-02,Maize,Wakulima,167,per tin
+2024-06-02,Potatoes,Wakulima,98,per kg
+2024-06-02,Cabbage,Wakulima,68,per piece
+2024-06-03,Tomatoes,Wakulima,84,per kg
+2024-06-03,Sukuma Wiki,Wakulima,29,per bundle
+2024-06-03,Onions,Wakulima,120,per kg
+2024-06-03,Maize,Wakulima,153,per tin
+2024-06-03,Potatoes,Wakulima,96,per kg
+2024-06-03,Cabbage,Wakulima,56,per piece
+2024-06-04,Tomatoes,Wakulima,78,per kg
+2024-06-04,Sukuma Wiki,Wakulima,32,per bundle
+2024-06-04,Onions,Wakulima,115,per kg
+2024-06-04,Maize,Wakulima,143,per tin
+2024-06-04,Potatoes,Wakulima,92,per kg
+2024-06-04,Cabbage,Wakulima,66,per piece
+2024-06-05,Tomatoes,Wakulima,82,per kg
+2024-06-05,Sukuma Wiki,Wakulima,34,per bundle
+2024-06-05,Onions,Wakulima,128,per kg
+2024-06-05,Maize,Wakulima,146,per tin
+2024-06-05,Potatoes,Wakulima,97,per kg
+2024-06-05,Cabbage,Wakulima,60,per piece
+2024-06-06,Tomatoes,Wakulima,86,per kg
+2024-06-06,Sukuma Wiki,Wakulima,32,per bundle
+2024-06-06,Onions,Wakulima,118,per kg
+2024-06-06,Maize,Wakulima,142,per tin
+2024-06-06,Potatoes,Wakulima,100,per kg
+2024-06-06,Cabbage,Wakulima,56,per piece
+2024-06-07,Tomatoes,Wakulima,89,per kg
+2024-06-07,Sukuma Wiki,Wakulima,33,per bundle
+2024-06-07,Onions,Wakulima,126,per kg
+2024-06-07,Maize,Wakulima,163,per tin
+2024-06-07,Potatoes,Wakulima,100,per kg
+2024-06-07,Cabbage,Wakulima,64,per piece
+2024-06-08,Tomatoes,Wakulima,83,per kg
+2024-06-08,Sukuma Wiki,Wakulima,34,per bundle
+2024-06-08,Onions,Wakulima,118,per kg
+2024-06-08,Maize,Wakulima,160,per tin
+2024-06-08,Potatoes,Wakulima,95,per kg
+2024-06-08,Cabbage,Wakulima,66,per piece
+2024-06-09,Tomatoes,Wakulima,88,per kg
+2024-06-09,Sukuma Wiki,Wakulima,32,per bundle
+2024-06-09,Onions,Wakulima,134,per kg
+2024-06-09,Maize,Wakulima,170,per tin
+2024-06-09,Potatoes,Wakulima,89,per kg
+2024-06-09,Cabbage,Wakulima,60,per piece
+2024-06-10,Tomatoes,Wakulima,74,per kg
+2024-06-10,Sukuma Wiki,Wakulima,33,per bundle
+2024-06-10,Onions,Wakulima,123,per kg
+2024-06-10,Maize,Wakulima,162,per tin
+2024-06-10,Potatoes,Wakulima,86,per kg
+2024-06-10,Cabbage,Wakulima,55,per piece
+2024-06-11,Tomatoes,Wakulima,87,per kg
+2024-06-11,Sukuma Wiki,Wakulima,34,per bundle
+2024-06-11,Onions,Wakulima,118,per kg
+2024-06-11,Maize,Wakulima,149,per tin
+2024-06-11,Potatoes,Wakulima,85,per kg
+2024-06-11,Cabbage,Wakulima,66,per piece
+2024-06-12,Tomatoes,Wakulima,78,per kg
+2024-06-12,Sukuma Wiki,Wakulima,30,per bundle
+2024-06-12,Onions,Wakulima,114,per kg
+2024-06-12,Maize,Wakulima,161,per tin
+2024-06-12,Potatoes,Wakulima,85,per kg
+2024-06-12,Cabbage,Wakulima,60,per piece
+2024-06-13,Tomatoes,Wakulima,84,per kg
+2024-06-13,Sukuma Wiki,Wakulima,32,per bundle
+2024-06-13,Onions,Wakulima,131,per kg
+2024-06-13,Maize,Wakulima,150,per tin
+2024-06-13,Potatoes,Wakulima,96,per kg
+2024-06-13,Cabbage,Wakulima,56,per piece
+2024-06-14,Tomatoes,Wakulima,80,per kg
+2024-06-14,Sukuma Wiki,Wakulima,27,per bundle
+2024-06-14,Onions,Wakulima,121,per kg
+2024-06-14,Maize,Wakulima,149,per tin
+2024-06-14,Potatoes,Wakulima,100,per kg
+2024-06-14,Cabbage,Wakulima,55,per piece
+2024-06-15,Tomatoes,Wakulima,83,per kg
+2024-06-15,Sukuma Wiki,Wakulima,31,per bundle
+2024-06-15,Onions,Wakulima,137,per kg
+2024-06-15,Maize,Wakulima,168,per tin
+2024-06-15,Potatoes,Wakulima,89,per kg
+2024-06-15,Cabbage,Wakulima,66,per piece
+2024-06-16,Tomatoes,Wakulima,86,per kg
+2024-06-16,Sukuma Wiki,Wakulima,36,per bundle
+2024-06-16,Onions,Wakulima,125,per kg
+2024-06-16,Maize,Wakulima,157,per tin
+2024-06-16,Potatoes,Wakulima,90,per kg
+2024-06-16,Cabbage,Wakulima,59,per piece
+2024-06-17,Tomatoes,Wakulima,87,per kg
+2024-06-17,Sukuma Wiki,Wakulima,30,per bundle
+2024-06-17,Onions,Wakulima,125,per kg
+2024-06-17,Maize,Wakulima,155,per tin
+2024-06-17,Potatoes,Wakulima,93,per kg
+2024-06-17,Cabbage,Wakulima,55,per piece
+2024-06-18,Tomatoes,Wakulima,86,per kg
+2024-06-18,Sukuma Wiki,Wakulima,28,per bundle
+2024-06-18,Onions,Wakulima,114,per kg
+2024-06-18,Maize,Wakulima,153,per tin
+2024-06-18,Potatoes,Wakulima,84,per kg
+2024-06-18,Cabbage,Wakulima,64,per piece
+2024-06-19,Tomatoes,Wakulima,77,per kg
+2024-06-19,Sukuma Wiki,Wakulima,28,per bundle
+2024-06-19,Onions,Wakulima,129,per kg
+2024-06-19,Maize,Wakulima,148,per tin
+2024-06-19,Potatoes,Wakulima,85,per kg
+2024-06-19,Cabbage,Wakulima,65,per piece
+2024-06-20,Tomatoes,Wakulima,74,per kg
+2024-06-20,Sukuma Wiki,Wakulima,33,per bundle
+2024-06-20,Onions,Wakulima,115,per kg
+2024-06-20,Maize,Wakulima,143,per tin
+2024-06-20,Potatoes,Wakulima,87,per kg
+2024-06-20,Cabbage,Wakulima,57,per piece
+2024-06-21,Tomatoes,Wakulima,84,per kg
+2024-06-21,Sukuma Wiki,Wakulima,26,per bundle
+2024-06-21,Onions,Wakulima,112,per kg
+2024-06-21,Maize,Wakulima,159,per tin
+2024-06-21,Potatoes,Wakulima,87,per kg
+2024-06-21,Cabbage,Wakulima,58,per piece
+2024-06-22,Tomatoes,Wakulima,80,per kg
+2024-06-22,Sukuma Wiki,Wakulima,28,per bundle
+2024-06-22,Onions,Wakulima,133,per kg
+2024-06-22,Maize,Wakulima,160,per tin
+2024-06-22,Potatoes,Wakulima,100,per kg
+2024-06-22,Cabbage,Wakulima,63,per piece
+2024-06-23,Tomatoes,Wakulima,90,per kg
+2024-06-23,Sukuma Wiki,Wakulima,32,per bundle
+2024-06-23,Onions,Wakulima,120,per kg
+2024-06-23,Maize,Wakulima,159,per tin
+2024-06-23,Potatoes,Wakulima,104,per kg
+2024-06-23,Cabbage,Wakulima,58,per piece
+2024-06-24,Tomatoes,Wakulima,86,per kg
+2024-06-24,Sukuma Wiki,Wakulima,33,per bundle
+2024-06-24,Onions,Wakulima,122,per kg
+2024-06-24,Maize,Wakulima,151,per tin
+2024-06-24,Potatoes,Wakulima,100,per kg
+2024-06-24,Cabbage,Wakulima,55,per piece
+2024-06-25,Tomatoes,Wakulima,81,per kg
+2024-06-25,Sukuma Wiki,Wakulima,30,per bundle
+2024-06-25,Onions,Wakulima,125,per kg
+2024-06-25,Maize,Wakulima,152,per tin
+2024-06-25,Potatoes,Wakulima,99,per kg
+2024-06-25,Cabbage,Wakulima,55,per piece
+2024-06-26,Tomatoes,Wakulima,75,per kg
+2024-06-26,Sukuma Wiki,Wakulima,31,per bundle
+2024-06-26,Onions,Wakulima,113,per kg
+2024-06-26,Maize,Wakulima,146,per tin
+2024-06-26,Potatoes,Wakulima,94,per kg
+2024-06-26,Cabbage,Wakulima,61,per piece
+2024-06-27,Tomatoes,Wakulima,79,per kg
+2024-06-27,Sukuma Wiki,Wakulima,34,per bundle
+2024-06-27,Onions,Wakulima,122,per kg
+2024-06-27,Maize,Wakulima,151,per tin
+2024-06-27,Potatoes,Wakulima,93,per kg
+2024-06-27,Cabbage,Wakulima,56,per piece
+2024-06-28,Tomatoes,Wakulima,85,per kg
+2024-06-28,Sukuma Wiki,Wakulima,33,per bundle
+2024-06-28,Onions,Wakulima,125,per kg
+2024-06-28,Maize,Wakulima,158,per tin
+2024-06-28,Potatoes,Wakulima,96,per kg
+2024-06-28,Cabbage,Wakulima,57,per piece
+2024-06-29,Tomatoes,Wakulima,85,per kg
+2024-06-29,Sukuma Wiki,Wakulima,30,per bundle
+2024-06-29,Onions,Wakulima,125,per kg
+2024-06-29,Maize,Wakulima,158,per tin
+2024-06-29,Potatoes,Wakulima,95,per kg
+2024-06-29,Cabbage,Wakulima,59,per piece
+2024-06-30,Tomatoes,Wakulima,84,per kg
+2024-06-30,Sukuma Wiki,Wakulima,33,per bundle
+2024-06-30,Onions,Wakulima,125,per kg
+2024-06-30,Maize,Wakulima,151,per tin
+2024-06-30,Potatoes,Wakulima,104,per kg
+2024-06-30,Cabbage,Wakulima,58,per piece
+2024-07-01,Tomatoes,Wakulima,87,per kg
+2024-07-01,Sukuma Wiki,Wakulima,27,per bundle
+2024-07-01,Onions,Wakulima,114,per kg
+2024-07-01,Maize,Wakulima,158,per tin
+2024-07-01,Potatoes,Wakulima,97,per kg
+2024-07-01,Cabbage,Wakulima,61,per piece
+2024-07-02,Tomatoes,Wakulima,83,per kg
+2024-07-02,Sukuma Wiki,Wakulima,31,per bundle
+2024-07-02,Onions,Wakulima,118,per kg
+2024-07-02,Maize,Wakulima,143,per tin
+2024-07-02,Potatoes,Wakulima,89,per kg
+2024-07-02,Cabbage,Wakulima,63,per piece
+2024-07-03,Tomatoes,Wakulima,86,per kg
+2024-07-03,Sukuma Wiki,Wakulima,33,per bundle
+2024-07-03,Onions,Wakulima,126,per kg
+2024-07-03,Maize,Wakulima,163,per tin
+2024-07-03,Potatoes,Wakulima,93,per kg
+2024-07-03,Cabbage,Wakulima,59,per piece
+2024-07-04,Tomatoes,Wakulima,83,per kg
+2024-07-04,Sukuma Wiki,Wakulima,28,per bundle
+2024-07-04,Onions,Wakulima,125,per kg
+2024-07-04,Maize,Wakulima,145,per tin
+2024-07-04,Potatoes,Wakulima,85,per kg
+2024-07-04,Cabbage,Wakulima,65,per piece
+2024-07-05,Tomatoes,Wakulima,80,per kg
+2024-07-05,Sukuma Wiki,Wakulima,32,per bundle
+2024-07-05,Onions,Wakulima,123,per kg
+2024-07-05,Maize,Wakulima,159,per tin
+2024-07-05,Potatoes,Wakulima,98,per kg
+2024-07-05,Cabbage,Wakulima,66,per piece
+2024-07-06,Tomatoes,Wakulima,91,per kg
+2024-07-06,Sukuma Wiki,Wakulima,33,per bundle
+2024-07-06,Onions,Wakulima,131,per kg
+2024-07-06,Maize,Wakulima,148,per tin
+2024-07-06,Potatoes,Wakulima,104,per kg
+2024-07-06,Cabbage,Wakulima,68,per piece
+2024-07-07,Tomatoes,Wakulima,82,per kg
+2024-07-07,Sukuma Wiki,Wakulima,29,per bundle
+2024-07-07,Onions,Wakulima,132,per kg
+2024-07-07,Maize,Wakulima,155,per tin
+2024-07-07,Potatoes,Wakulima,93,per kg
+2024-07-07,Cabbage,Wakulima,58,per piece
+2024-07-08,Tomatoes,Wakulima,88,per kg
+2024-07-08,Sukuma Wiki,Wakulima,31,per bundle
+2024-07-08,Onions,Wakulima,120,per kg
+2024-07-08,Maize,Wakulima,143,per tin
+2024-07-08,Potatoes,Wakulima,94,per kg
+2024-07-08,Cabbage,Wakulima,55,per piece
+2024-07-09,Tomatoes,Wakulima,86,per kg
+2024-07-09,Sukuma Wiki,Wakulima,28,per bundle
+2024-07-09,Onions,Wakulima,120,per kg
+2024-07-09,Maize,Wakulima,148,per tin
+2024-07-09,Potatoes,Wakulima,89,per kg
+2024-07-09,Cabbage,Wakulima,63,per piece
+2024-07-10,Tomatoes,Wakulima,86,per kg
+2024-07-10,Sukuma Wiki,Wakulima,31,per bundle
+2024-07-10,Onions,Wakulima,114,per kg
+2024-07-10,Maize,Wakulima,141,per tin
+2024-07-10,Potatoes,Wakulima,85,per kg
+2024-07-10,Cabbage,Wakulima,62,per piece
+2024-07-11,Tomatoes,Wakulima,84,per kg
+2024-07-11,Sukuma Wiki,Wakulima,28,per bundle
+2024-07-11,Onions,Wakulima,125,per kg
+2024-07-11,Maize,Wakulima,152,per tin
+2024-07-11,Potatoes,Wakulima,91,per kg
+2024-07-11,Cabbage,Wakulima,58,per piece
+2024-07-12,Tomatoes,Wakulima,86,per kg
+2024-07-12,Sukuma Wiki,Wakulima,27,per bundle
+2024-07-12,Onions,Wakulima,121,per kg
+2024-07-12,Maize,Wakulima,147,per tin
+2024-07-12,Potatoes,Wakulima,95,per kg
+2024-07-12,Cabbage,Wakulima,60,per piece
+2024-07-13,Tomatoes,Wakulima,88,per kg
+2024-07-13,Sukuma Wiki,Wakulima,28,per bundle
+2024-07-13,Onions,Wakulima,126,per kg
+2024-07-13,Maize,Wakulima,162,per tin
+2024-07-13,Potatoes,Wakulima,87,per kg
+2024-07-13,Cabbage,Wakulima,61,per piece
+2024-07-14,Tomatoes,Wakulima,81,per kg
+2024-07-14,Sukuma Wiki,Wakulima,29,per bundle
+2024-07-14,Onions,Wakulima,123,per kg
+2024-07-14,Maize,Wakulima,155,per tin
+2024-07-14,Potatoes,Wakulima,87,per kg
+2024-07-14,Cabbage,Wakulima,67,per piece
+2024-07-15,Tomatoes,Wakulima,77,per kg
+2024-07-15,Sukuma Wiki,Wakulima,29,per bundle
+2024-07-15,Onions,Wakulima,126,per kg
+2024-07-15,Maize,Wakulima,152,per tin
+2024-07-15,Potatoes,Wakulima,98,per kg
+2024-07-15,Cabbage,Wakulima,64,per piece
+2024-07-16,Tomatoes,Wakulima,75,per kg
+2024-07-16,Sukuma Wiki,Wakulima,33,per bundle
+2024-07-16,Onions,Wakulima,113,per kg
+2024-07-16,Maize,Wakulima,140,per tin
+2024-07-16,Potatoes,Wakulima,99,per kg
+2024-07-16,Cabbage,Wakulima,65,per piece
+2024-07-17,Tomatoes,Wakulima,83,per kg
+2024-07-17,Sukuma Wiki,Wakulima,31,per bundle
+2024-07-17,Onions,Wakulima,126,per kg
+2024-07-17,Maize,Wakulima,150,per tin
+2024-07-17,Potatoes,Wakulima,85,per kg
+2024-07-17,Cabbage,Wakulima,55,per piece
+2024-07-18,Tomatoes,Wakulima,79,per kg
+2024-07-18,Sukuma Wiki,Wakulima,33,per bundle
+2024-07-18,Onions,Wakulima,124,per kg
+2024-07-18,Maize,Wakulima,160,per tin
+2024-07-18,Potatoes,Wakulima,99,per kg
+2024-07-18,Cabbage,Wakulima,56,per piece
+2024-07-19,Tomatoes,Wakulima,87,per kg
+2024-07-19,Sukuma Wiki,Wakulima,28,per bundle
+2024-07-19,Onions,Wakulima,124,per kg
+2024-07-19,Maize,Wakulima,153,per tin
+2024-07-19,Potatoes,Wakulima,90,per kg
+2024-07-19,Cabbage,Wakulima,58,per piece
+2024-07-20,Tomatoes,Wakulima,83,per kg
+2024-07-20,Sukuma Wiki,Wakulima,31,per bundle
+2024-07-20,Onions,Wakulima,121,per kg
+2024-07-20,Maize,Wakulima,160,per tin
+2024-07-20,Potatoes,Wakulima,89,per kg
+2024-07-20,Cabbage,Wakulima,64,per piece
+2024-07-21,Tomatoes,Wakulima,92,per kg
+2024-07-21,Sukuma Wiki,Wakulima,31,per bundle
+2024-07-21,Onions,Wakulima,133,per kg
+2024-07-21,Maize,Wakulima,167,per tin
+2024-07-21,Potatoes,Wakulima,102,per kg
+2024-07-21,Cabbage,Wakulima,61,per piece
+2024-07-22,Tomatoes,Wakulima,76,per kg
+2024-07-22,Sukuma Wiki,Wakulima,28,per bundle
+2024-07-22,Onions,Wakulima,124,per kg
+2024-07-22,Maize,Wakulima,158,per tin
+2024-07-22,Potatoes,Wakulima,95,per kg
+2024-07-22,Cabbage,Wakulima,57,per piece
+2024-07-23,Tomatoes,Wakulima,86,per kg
+2024-07-23,Sukuma Wiki,Wakulima,30,per bundle
+2024-07-23,Onions,Wakulima,127,per kg
+2024-07-23,Maize,Wakulima,158,per tin
+2024-07-23,Potatoes,Wakulima,91,per kg
+2024-07-23,Cabbage,Wakulima,66,per piece
+2024-07-24,Tomatoes,Wakulima,83,per kg
+2024-07-24,Sukuma Wiki,Wakulima,31,per bundle
+2024-07-24,Onions,Wakulima,125,per kg
+2024-07-24,Maize,Wakulima,161,per tin
+2024-07-24,Potatoes,Wakulima,94,per kg
+2024-07-24,Cabbage,Wakulima,56,per piece
+2024-07-25,Tomatoes,Wakulima,75,per kg
+2024-07-25,Sukuma Wiki,Wakulima,30,per bundle
+2024-07-25,Onions,Wakulima,118,per kg
+2024-07-25,Maize,Wakulima,147,per tin
+2024-07-25,Potatoes,Wakulima,84,per kg
+2024-07-25,Cabbage,Wakulima,61,per piece
+2024-07-26,Tomatoes,Wakulima,79,per kg
+2024-07-26,Sukuma Wiki,Wakulima,30,per bundle
+2024-07-26,Onions,Wakulima,113,per kg
+2024-07-26,Maize,Wakulima,160,per tin
+2024-07-26,Potatoes,Wakulima,84,per kg
+2024-07-26,Cabbage,Wakulima,65,per piece
+2024-07-27,Tomatoes,Wakulima,92,per kg
+2024-07-27,Sukuma Wiki,Wakulima,33,per bundle
+2024-07-27,Onions,Wakulima,128,per kg
+2024-07-27,Maize,Wakulima,159,per tin
+2024-07-27,Potatoes,Wakulima,97,per kg
+2024-07-27,Cabbage,Wakulima,67,per piece
+2024-07-28,Tomatoes,Wakulima,92,per kg
+2024-07-28,Sukuma Wiki,Wakulima,31,per bundle
+2024-07-28,Onions,Wakulima,134,per kg
+2024-07-28,Maize,Wakulima,163,per tin
+2024-07-28,Potatoes,Wakulima,93,per kg
+2024-07-28,Cabbage,Wakulima,63,per piece
+2024-07-29,Tomatoes,Wakulima,76,per kg
+2024-07-29,Sukuma Wiki,Wakulima,27,per bundle
+2024-07-29,Onions,Wakulima,114,per kg
+2024-07-29,Maize,Wakulima,162,per tin
+2024-07-29,Potatoes,Wakulima,89,per kg
+2024-07-29,Cabbage,Wakulima,63,per piece
+2024-07-30,Tomatoes,Wakulima,82,per kg
+2024-07-30,Sukuma Wiki,Wakulima,28,per bundle
+2024-07-30,Onions,Wakulima,117,per kg
+2024-07-30,Maize,Wakulima,151,per tin
+2024-07-30,Potatoes,Wakulima,91,per kg
+2024-07-30,Cabbage,Wakulima,61,per piece
+2024-07-31,Tomatoes,Wakulima,76,per kg
+2024-07-31,Sukuma Wiki,Wakulima,29,per bundle
+2024-07-31,Onions,Wakulima,118,per kg
+2024-07-31,Maize,Wakulima,150,per tin
+2024-07-31,Potatoes,Wakulima,89,per kg
+2024-07-31,Cabbage,Wakulima,62,per piece
+2024-08-01,Tomatoes,Wakulima,86,per kg
+2024-08-01,Sukuma Wiki,Wakulima,32,per bundle
+2024-08-01,Onions,Wakulima,113,per kg
+2024-08-01,Maize,Wakulima,142,per tin
+2024-08-01,Potatoes,Wakulima,95,per kg
+2024-08-01,Cabbage,Wakulima,58,per piece
+2024-08-02,Tomatoes,Wakulima,85,per kg
+2024-08-02,Sukuma Wiki,Wakulima,32,per bundle
+2024-08-02,Onions,Wakulima,130,per kg
+2024-08-02,Maize,Wakulima,161,per tin
+2024-08-02,Potatoes,Wakulima,89,per kg
+2024-08-02,Cabbage,Wakulima,62,per piece
+2024-08-03,Tomatoes,Wakulima,80,per kg
+2024-08-03,Sukuma Wiki,Wakulima,31,per bundle
+2024-08-03,Onions,Wakulima,138,per kg
+2024-08-03,Maize,Wakulima,165,per tin
+2024-08-03,Potatoes,Wakulima,95,per kg
+2024-08-03,Cabbage,Wakulima,65,per piece
+2024-08-04,Tomatoes,Wakulima,93,per kg
+2024-08-04,Sukuma Wiki,Wakulima,30,per bundle
+2024-08-04,Onions,Wakulima,126,per kg
+2024-08-04,Maize,Wakulima,167,per tin
+2024-08-04,Potatoes,Wakulima,102,per kg
+2024-08-04,Cabbage,Wakulima,66,per piece
+2024-08-05,Tomatoes,Wakulima,87,per kg
+2024-08-05,Sukuma Wiki,Wakulima,32,per bundle
+2024-08-05,Onions,Wakulima,126,per kg
+2024-08-05,Maize,Wakulima,153,per tin
+2024-08-05,Potatoes,Wakulima,95,per kg
+2024-08-05,Cabbage,Wakulima,60,per piece
+2024-08-06,Tomatoes,Wakulima,80,per kg
+2024-08-06,Sukuma Wiki,Wakulima,29,per bundle
+2024-08-06,Onions,Wakulima,116,per kg
+2024-08-06,Maize,Wakulima,145,per tin
+2024-08-06,Potatoes,Wakulima,100,per kg
+2024-08-06,Cabbage,Wakulima,61,per piece
+2024-08-07,Tomatoes,Wakulima,78,per kg
+2024-08-07,Sukuma Wiki,Wakulima,27,per bundle
+2024-08-07,Onions,Wakulima,114,per kg
+2024-08-07,Maize,Wakulima,161,per tin
+2024-08-07,Potatoes,Wakulima,85,per kg
+2024-08-07,Cabbage,Wakulima,64,per piece
+2024-08-08,Tomatoes,Wakulima,87,per kg
+2024-08-08,Sukuma Wiki,Wakulima,33,per bundle
+2024-08-08,Onions,Wakulima,113,per kg
+2024-08-08,Maize,Wakulima,148,per tin
+2024-08-08,Potatoes,Wakulima,97,per kg
+2024-08-08,Cabbage,Wakulima,56,per piece
+2024-08-09,Tomatoes,Wakulima,80,per kg
+2024-08-09,Sukuma Wiki,Wakulima,28,per bundle
+2024-08-09,Onions,Wakulima,129,per kg
+2024-08-09,Maize,Wakulima,159,per tin
+2024-08-09,Potatoes,Wakulima,97,per kg
+2024-08-09,Cabbage,Wakulima,57,per piece
+2024-08-10,Tomatoes,Wakulima,85,per kg
+2024-08-10,Sukuma Wiki,Wakulima,31,per bundle
+2024-08-10,Onions,Wakulima,132,per kg
+2024-08-10,Maize,Wakulima,154,per tin
+2024-08-10,Potatoes,Wakulima,96,per kg
+2024-08-10,Cabbage,Wakulima,61,per piece
+2024-08-11,Tomatoes,Wakulima,90,per kg
+2024-08-11,Sukuma Wiki,Wakulima,31,per bundle
+2024-08-11,Onions,Wakulima,129,per kg
+2024-08-11,Maize,Wakulima,155,per tin
+2024-08-11,Potatoes,Wakulima,102,per kg
+2024-08-11,Cabbage,Wakulima,63,per piece
+2024-08-12,Tomatoes,Wakulima,87,per kg
+2024-08-12,Sukuma Wiki,Wakulima,29,per bundle
+2024-08-12,Onions,Wakulima,131,per kg
+2024-08-12,Maize,Wakulima,164,per tin
+2024-08-12,Potatoes,Wakulima,91,per kg
+2024-08-12,Cabbage,Wakulima,58,per piece
+2024-08-13,Tomatoes,Wakulima,80,per kg
+2024-08-13,Sukuma Wiki,Wakulima,31,per bundle
+2024-08-13,Onions,Wakulima,132,per kg
+2024-08-13,Maize,Wakulima,160,per tin
+2024-08-13,Potatoes,Wakulima,97,per kg
+2024-08-13,Cabbage,Wakulima,56,per piece
+2024-08-14,Tomatoes,Wakulima,78,per kg
+2024-08-14,Sukuma Wiki,Wakulima,32,per bundle
+2024-08-14,Onions,Wakulima,130,per kg
+2024-08-14,Maize,Wakulima,154,per tin
+2024-08-14,Potatoes,Wakulima,85,per kg
+2024-08-14,Cabbage,Wakulima,65,per piece
+2024-08-15,Tomatoes,Wakulima,88,per kg
+2024-08-15,Sukuma Wiki,Wakulima,29,per bundle
+2024-08-15,Onions,Wakulima,128,per kg
+2024-08-15,Maize,Wakulima,147,per tin
+2024-08-15,Potatoes,Wakulima,99,per kg
+2024-08-15,Cabbage,Wakulima,57,per piece
+2024-08-16,Tomatoes,Wakulima,81,per kg
+2024-08-16,Sukuma Wiki,Wakulima,34,per bundle
+2024-08-16,Onions,Wakulima,117,per kg
+2024-08-16,Maize,Wakulima,151,per tin
+2024-08-16,Potatoes,Wakulima,89,per kg
+2024-08-16,Cabbage,Wakulima,55,per piece
+2024-08-17,Tomatoes,Wakulima,79,per kg
+2024-08-17,Sukuma Wiki,Wakulima,32,per bundle
+2024-08-17,Onions,Wakulima,123,per kg
+2024-08-17,Maize,Wakulima,172,per tin
+2024-08-17,Potatoes,Wakulima,94,per kg
+2024-08-17,Cabbage,Wakulima,58,per piece
+2024-08-18,Tomatoes,Wakulima,93,per kg
+2024-08-18,Sukuma Wiki,Wakulima,35,per bundle
+2024-08-18,Onions,Wakulima,131,per kg
+2024-08-18,Maize,Wakulima,167,per tin
+2024-08-18,Potatoes,Wakulima,90,per kg
+2024-08-18,Cabbage,Wakulima,61,per piece
+2024-08-19,Tomatoes,Wakulima,87,per kg
+2024-08-19,Sukuma Wiki,Wakulima,32,per bundle
+2024-08-19,Onions,Wakulima,115,per kg
+2024-08-19,Maize,Wakulima,157,per tin
+2024-08-19,Potatoes,Wakulima,91,per kg
+2024-08-19,Cabbage,Wakulima,55,per piece
+2024-08-20,Tomatoes,Wakulima,75,per kg
+2024-08-20,Sukuma Wiki,Wakulima,28,per bundle
+2024-08-20,Onions,Wakulima,129,per kg
+2024-08-20,Maize,Wakulima,154,per tin
+2024-08-20,Potatoes,Wakulima,96,per kg
+2024-08-20,Cabbage,Wakulima,61,per piece
+2024-08-21,Tomatoes,Wakulima,76,per kg
+2024-08-21,Sukuma Wiki,Wakulima,29,per bundle
+2024-08-21,Onions,Wakulima,118,per kg
+2024-08-21,Maize,Wakulima,142,per tin
+2024-08-21,Potatoes,Wakulima,91,per kg
+2024-08-21,Cabbage,Wakulima,64,per piece
+2024-08-22,Tomatoes,Wakulima,81,per kg
+2024-08-22,Sukuma Wiki,Wakulima,27,per bundle
+2024-08-22,Onions,Wakulima,130,per kg
+2024-08-22,Maize,Wakulima,155,per tin
+2024-08-22,Potatoes,Wakulima,83,per kg
+2024-08-22,Cabbage,Wakulima,61,per piece
+2024-08-23,Tomatoes,Wakulima,78,per kg
+2024-08-23,Sukuma Wiki,Wakulima,28,per bundle
+2024-08-23,Onions,Wakulima,121,per kg
+2024-08-23,Maize,Wakulima,155,per tin
+2024-08-23,Potatoes,Wakulima,87,per kg
+2024-08-23,Cabbage,Wakulima,60,per piece
+2024-08-24,Tomatoes,Wakulima,89,per kg
+2024-08-24,Sukuma Wiki,Wakulima,29,per bundle
+2024-08-24,Onions,Wakulima,138,per kg
+2024-08-24,Maize,Wakulima,150,per tin
+2024-08-24,Potatoes,Wakulima,97,per kg
+2024-08-24,Cabbage,Wakulima,64,per piece
+2024-08-25,Tomatoes,Wakulima,94,per kg
+2024-08-25,Sukuma Wiki,Wakulima,32,per bundle
+2024-08-25,Onions,Wakulima,126,per kg
+2024-08-25,Maize,Wakulima,159,per tin
+2024-08-25,Potatoes,Wakulima,99,per kg
+2024-08-25,Cabbage,Wakulima,70,per piece
+2024-08-26,Tomatoes,Wakulima,78,per kg
+2024-08-26,Sukuma Wiki,Wakulima,27,per bundle
+2024-08-26,Onions,Wakulima,128,per kg
+2024-08-26,Maize,Wakulima,149,per tin
+2024-08-26,Potatoes,Wakulima,96,per kg
+2024-08-26,Cabbage,Wakulima,62,per piece
+2024-08-27,Tomatoes,Wakulima,86,per kg
+2024-08-27,Sukuma Wiki,Wakulima,32,per bundle
+2024-08-27,Onions,Wakulima,119,per kg
+2024-08-27,Maize,Wakulima,142,per tin
+2024-08-27,Potatoes,Wakulima,93,per kg
+2024-08-27,Cabbage,Wakulima,65,per piece
+2024-08-28,Tomatoes,Wakulima,77,per kg
+2024-08-28,Sukuma Wiki,Wakulima,33,per bundle
+2024-08-28,Onions,Wakulima,122,per kg
+2024-08-28,Maize,Wakulima,157,per tin
+2024-08-28,Potatoes,Wakulima,94,per kg
+2024-08-28,Cabbage,Wakulima,65,per piece
+2024-08-29,Tomatoes,Wakulima,75,per kg
+2024-08-29,Sukuma Wiki,Wakulima,33,per bundle
+2024-08-29,Onions,Wakulima,122,per kg
+2024-08-29,Maize,Wakulima,148,per tin
+2024-08-29,Potatoes,Wakulima,84,per kg
+2024-08-29,Cabbage,Wakulima,57,per piece
+2024-08-30,Tomatoes,Wakulima,75,per kg
+2024-08-30,Sukuma Wiki,Wakulima,34,per bundle
+2024-08-30,Onions,Wakulima,123,per kg
+2024-08-30,Maize,Wakulima,164,per tin
+2024-08-30,Potatoes,Wakulima,93,per kg
+2024-08-30,Cabbage,Wakulima,58,per piece
+2024-08-31,Tomatoes,Wakulima,90,per kg
+2024-08-31,Sukuma Wiki,Wakulima,29,per bundle
+2024-08-31,Onions,Wakulima,126,per kg
+2024-08-31,Maize,Wakulima,167,per tin
+2024-08-31,Potatoes,Wakulima,103,per kg
+2024-08-31,Cabbage,Wakulima,62,per piece
+2024-09-01,Tomatoes,Wakulima,80,per kg
+2024-09-01,Sukuma Wiki,Wakulima,31,per bundle
+2024-09-01,Onions,Wakulima,136,per kg
+2024-09-01,Maize,Wakulima,166,per tin
+2024-09-01,Potatoes,Wakulima,104,per kg
+2024-09-01,Cabbage,Wakulima,62,per piece
+2024-09-02,Tomatoes,Wakulima,90,per kg
+2024-09-02,Sukuma Wiki,Wakulima,30,per bundle
+2024-09-02,Onions,Wakulima,122,per kg
+2024-09-02,Maize,Wakulima,163,per tin
+2024-09-02,Potatoes,Wakulima,92,per kg
+2024-09-02,Cabbage,Wakulima,64,per piece
+2024-09-03,Tomatoes,Wakulima,86,per kg
+2024-09-03,Sukuma Wiki,Wakulima,27,per bundle
+2024-09-03,Onions,Wakulima,124,per kg
+2024-09-03,Maize,Wakulima,160,per tin
+2024-09-03,Potatoes,Wakulima,93,per kg
+2024-09-03,Cabbage,Wakulima,59,per piece
+2024-09-04,Tomatoes,Wakulima,75,per kg
+2024-09-04,Sukuma Wiki,Wakulima,32,per bundle
+2024-09-04,Onions,Wakulima,119,per kg
+2024-09-04,Maize,Wakulima,155,per tin
+2024-09-04,Potatoes,Wakulima,91,per kg
+2024-09-04,Cabbage,Wakulima,63,per piece
+2024-09-05,Tomatoes,Wakulima,80,per kg
+2024-09-05,Sukuma Wiki,Wakulima,27,per bundle
+2024-09-05,Onions,Wakulima,130,per kg
+2024-09-05,Maize,Wakulima,149,per tin
+2024-09-05,Potatoes,Wakulima,101,per kg
+2024-09-05,Cabbage,Wakulima,58,per piece
+2024-09-06,Tomatoes,Wakulima,90,per kg
+2024-09-06,Sukuma Wiki,Wakulima,34,per bundle
+2024-09-06,Onions,Wakulima,114,per kg
+2024-09-06,Maize,Wakulima,156,per tin
+2024-09-06,Potatoes,Wakulima,90,per kg
+2024-09-06,Cabbage,Wakulima,64,per piece
+2024-09-07,Tomatoes,Wakulima,89,per kg
+2024-09-07,Sukuma Wiki,Wakulima,36,per bundle
+2024-09-07,Onions,Wakulima,121,per kg
+2024-09-07,Maize,Wakulima,163,per tin
+2024-09-07,Potatoes,Wakulima,102,per kg
+2024-09-07,Cabbage,Wakulima,58,per piece
+2024-09-08,Tomatoes,Wakulima,79,per kg
+2024-09-08,Sukuma Wiki,Wakulima,34,per bundle
+2024-09-08,Onions,Wakulima,126,per kg
+2024-09-08,Maize,Wakulima,157,per tin
+2024-09-08,Potatoes,Wakulima,98,per kg
+2024-09-08,Cabbage,Wakulima,65,per piece
+2024-09-09,Tomatoes,Wakulima,85,per kg
+2024-09-09,Sukuma Wiki,Wakulima,34,per bundle
+2024-09-09,Onions,Wakulima,120,per kg
+2024-09-09,Maize,Wakulima,159,per tin
+2024-09-09,Potatoes,Wakulima,94,per kg
+2024-09-09,Cabbage,Wakulima,61,per piece
+2024-09-10,Tomatoes,Wakulima,81,per kg
+2024-09-10,Sukuma Wiki,Wakulima,32,per bundle
+2024-09-10,Onions,Wakulima,117,per kg
+2024-09-10,Maize,Wakulima,143,per tin
+2024-09-10,Potatoes,Wakulima,96,per kg
+2024-09-10,Cabbage,Wakulima,61,per piece
+2024-09-11,Tomatoes,Wakulima,80,per kg
+2024-09-11,Sukuma Wiki,Wakulima,31,per bundle
+2024-09-11,Onions,Wakulima,118,per kg
+2024-09-11,Maize,Wakulima,147,per tin
+2024-09-11,Potatoes,Wakulima,91,per kg
+2024-09-11,Cabbage,Wakulima,67,per piece
+2024-09-12,Tomatoes,Wakulima,79,per kg
+2024-09-12,Sukuma Wiki,Wakulima,34,per bundle
+2024-09-12,Onions,Wakulima,122,per kg
+2024-09-12,Maize,Wakulima,144,per tin
+2024-09-12,Potatoes,Wakulima,99,per kg
+2024-09-12,Cabbage,Wakulima,60,per piece
+2024-09-13,Tomatoes,Wakulima,89,per kg
+2024-09-13,Sukuma Wiki,Wakulima,30,per bundle
+2024-09-13,Onions,Wakulima,114,per kg
+2024-09-13,Maize,Wakulima,157,per tin
+2024-09-13,Potatoes,Wakulima,98,per kg
+2024-09-13,Cabbage,Wakulima,59,per piece
+2024-09-14,Tomatoes,Wakulima,84,per kg
+2024-09-14,Sukuma Wiki,Wakulima,28,per bundle
+2024-09-14,Onions,Wakulima,130,per kg
+2024-09-14,Maize,Wakulima,170,per tin
+2024-09-14,Potatoes,Wakulima,103,per kg
+2024-09-14,Cabbage,Wakulima,66,per piece
+2024-09-15,Tomatoes,Wakulima,93,per kg
+2024-09-15,Sukuma Wiki,Wakulima,33,per bundle
+2024-09-15,Onions,Wakulima,135,per kg
+2024-09-15,Maize,Wakulima,160,per tin
+2024-09-15,Potatoes,Wakulima,90,per kg
+2024-09-15,Cabbage,Wakulima,60,per piece
+2024-09-16,Tomatoes,Wakulima,76,per kg
+2024-09-16,Sukuma Wiki,Wakulima,33,per bundle
+2024-09-16,Onions,Wakulima,113,per kg
+2024-09-16,Maize,Wakulima,154,per tin
+2024-09-16,Potatoes,Wakulima,90,per kg
+2024-09-16,Cabbage,Wakulima,64,per piece
+2024-09-17,Tomatoes,Wakulima,83,per kg
+2024-09-17,Sukuma Wiki,Wakulima,31,per bundle
+2024-09-17,Onions,Wakulima,114,per kg
+2024-09-17,Maize,Wakulima,148,per tin
+2024-09-17,Potatoes,Wakulima,101,per kg
+2024-09-17,Cabbage,Wakulima,63,per piece
+2024-09-18,Tomatoes,Wakulima,83,per kg
+2024-09-18,Sukuma Wiki,Wakulima,33,per bundle
+2024-09-18,Onions,Wakulima,129,per kg
+2024-09-18,Maize,Wakulima,142,per tin
+2024-09-18,Potatoes,Wakulima,101,per kg
+2024-09-18,Cabbage,Wakulima,63,per piece
+2024-09-19,Tomatoes,Wakulima,81,per kg
+2024-09-19,Sukuma Wiki,Wakulima,32,per bundle
+2024-09-19,Onions,Wakulima,119,per kg
+2024-09-19,Maize,Wakulima,162,per tin
+2024-09-19,Potatoes,Wakulima,97,per kg
+2024-09-19,Cabbage,Wakulima,63,per piece
+2024-09-20,Tomatoes,Wakulima,77,per kg
+2024-09-20,Sukuma Wiki,Wakulima,34,per bundle
+2024-09-20,Onions,Wakulima,121,per kg
+2024-09-20,Maize,Wakulima,163,per tin
+2024-09-20,Potatoes,Wakulima,84,per kg
+2024-09-20,Cabbage,Wakulima,56,per piece
+2024-09-21,Tomatoes,Wakulima,81,per kg
+2024-09-21,Sukuma Wiki,Wakulima,29,per bundle
+2024-09-21,Onions,Wakulima,125,per kg
+2024-09-21,Maize,Wakulima,165,per tin
+2024-09-21,Potatoes,Wakulima,94,per kg
+2024-09-21,Cabbage,Wakulima,69,per piece
+2024-09-22,Tomatoes,Wakulima,93,per kg
+2024-09-22,Sukuma Wiki,Wakulima,35,per bundle
+2024-09-22,Onions,Wakulima,124,per kg
+2024-09-22,Maize,Wakulima,164,per tin
+2024-09-22,Potatoes,Wakulima,98,per kg
+2024-09-22,Cabbage,Wakulima,59,per piece
+2024-09-23,Tomatoes,Wakulima,79,per kg
+2024-09-23,Sukuma Wiki,Wakulima,31,per bundle
+2024-09-23,Onions,Wakulima,123,per kg
+2024-09-23,Maize,Wakulima,145,per tin
+2024-09-23,Potatoes,Wakulima,100,per kg
+2024-09-23,Cabbage,Wakulima,57,per piece
+2024-09-24,Tomatoes,Wakulima,85,per kg
+2024-09-24,Sukuma Wiki,Wakulima,32,per bundle
+2024-09-24,Onions,Wakulima,125,per kg
+2024-09-24,Maize,Wakulima,161,per tin
+2024-09-24,Potatoes,Wakulima,93,per kg
+2024-09-24,Cabbage,Wakulima,65,per piece
+2024-09-25,Tomatoes,Wakulima,75,per kg
+2024-09-25,Sukuma Wiki,Wakulima,27,per bundle
+2024-09-25,Onions,Wakulima,125,per kg
+2024-09-25,Maize,Wakulima,155,per tin
+2024-09-25,Potatoes,Wakulima,95,per kg
+2024-09-25,Cabbage,Wakulima,64,per piece
+2024-09-26,Tomatoes,Wakulima,81,per kg
+2024-09-26,Sukuma Wiki,Wakulima,32,per bundle
+2024-09-26,Onions,Wakulima,123,per kg
+2024-09-26,Maize,Wakulima,156,per tin
+2024-09-26,Potatoes,Wakulima,89,per kg
+2024-09-26,Cabbage,Wakulima,66,per piece
+2024-09-27,Tomatoes,Wakulima,82,per kg
+2024-09-27,Sukuma Wiki,Wakulima,33,per bundle
+2024-09-27,Onions,Wakulima,126,per kg
+2024-09-27,Maize,Wakulima,148,per tin
+2024-09-27,Potatoes,Wakulima,85,per kg
+2024-09-27,Cabbage,Wakulima,56,per piece
+2024-09-28,Tomatoes,Wakulima,86,per kg
+2024-09-28,Sukuma Wiki,Wakulima,32,per bundle
+2024-09-28,Onions,Wakulima,123,per kg
+2024-09-28,Maize,Wakulima,163,per tin
+2024-09-28,Potatoes,Wakulima,94,per kg
+2024-09-28,Cabbage,Wakulima,67,per piece
+2024-09-29,Tomatoes,Wakulima,90,per kg
+2024-09-29,Sukuma Wiki,Wakulima,35,per bundle
+2024-09-29,Onions,Wakulima,138,per kg
+2024-09-29,Maize,Wakulima,152,per tin
+2024-09-29,Potatoes,Wakulima,95,per kg
+2024-09-29,Cabbage,Wakulima,65,per piece
+2024-09-30,Tomatoes,Wakulima,79,per kg
+2024-09-30,Sukuma Wiki,Wakulima,30,per bundle
+2024-09-30,Onions,Wakulima,118,per kg
+2024-09-30,Maize,Wakulima,147,per tin
+2024-09-30,Potatoes,Wakulima,85,per kg
+2024-09-30,Cabbage,Wakulima,58,per piece
+2024-10-01,Tomatoes,Wakulima,89,per kg
+2024-10-01,Sukuma Wiki,Wakulima,34,per bundle
+2024-10-01,Onions,Wakulima,130,per kg
+2024-10-01,Maize,Wakulima,177,per tin
+2024-10-01,Potatoes,Wakulima,95,per kg
+2024-10-01,Cabbage,Wakulima,65,per piece
+2024-10-02,Tomatoes,Wakulima,92,per kg
+2024-10-02,Sukuma Wiki,Wakulima,32,per bundle
+2024-10-02,Onions,Wakulima,140,per kg
+2024-10-02,Maize,Wakulima,168,per tin
+2024-10-02,Potatoes,Wakulima,102,per kg
+2024-10-02,Cabbage,Wakulima,67,per piece
+2024-10-03,Tomatoes,Wakulima,88,per kg
+2024-10-03,Sukuma Wiki,Wakulima,30,per bundle
+2024-10-03,Onions,Wakulima,144,per kg
+2024-10-03,Maize,Wakulima,168,per tin
+2024-10-03,Potatoes,Wakulima,110,per kg
+2024-10-03,Cabbage,Wakulima,64,per piece
+2024-10-04,Tomatoes,Wakulima,88,per kg
+2024-10-04,Sukuma Wiki,Wakulima,30,per bundle
+2024-10-04,Onions,Wakulima,135,per kg
+2024-10-04,Maize,Wakulima,177,per tin
+2024-10-04,Potatoes,Wakulima,104,per kg
+2024-10-04,Cabbage,Wakulima,67,per piece
+2024-10-05,Tomatoes,Wakulima,96,per kg
+2024-10-05,Sukuma Wiki,Wakulima,38,per bundle
+2024-10-05,Onions,Wakulima,140,per kg
+2024-10-05,Maize,Wakulima,186,per tin
+2024-10-05,Potatoes,Wakulima,111,per kg
+2024-10-05,Cabbage,Wakulima,74,per piece
+2024-10-06,Tomatoes,Wakulima,93,per kg
+2024-10-06,Sukuma Wiki,Wakulima,34,per bundle
+2024-10-06,Onions,Wakulima,143,per kg
+2024-10-06,Maize,Wakulima,169,per tin
+2024-10-06,Potatoes,Wakulima,108,per kg
+2024-10-06,Cabbage,Wakulima,65,per piece
+2024-10-07,Tomatoes,Wakulima,91,per kg
+2024-10-07,Sukuma Wiki,Wakulima,36,per bundle
+2024-10-07,Onions,Wakulima,131,per kg
+2024-10-07,Maize,Wakulima,180,per tin
+2024-10-07,Potatoes,Wakulima,105,per kg
+2024-10-07,Cabbage,Wakulima,62,per piece
+2024-10-08,Tomatoes,Wakulima,98,per kg
+2024-10-08,Sukuma Wiki,Wakulima,33,per bundle
+2024-10-08,Onions,Wakulima,141,per kg
+2024-10-08,Maize,Wakulima,164,per tin
+2024-10-08,Potatoes,Wakulima,110,per kg
+2024-10-08,Cabbage,Wakulima,70,per piece
+2024-10-09,Tomatoes,Wakulima,86,per kg
+2024-10-09,Sukuma Wiki,Wakulima,34,per bundle
+2024-10-09,Onions,Wakulima,135,per kg
+2024-10-09,Maize,Wakulima,157,per tin
+2024-10-09,Potatoes,Wakulima,95,per kg
+2024-10-09,Cabbage,Wakulima,65,per piece
+2024-10-10,Tomatoes,Wakulima,90,per kg
+2024-10-10,Sukuma Wiki,Wakulima,33,per bundle
+2024-10-10,Onions,Wakulima,137,per kg
+2024-10-10,Maize,Wakulima,169,per tin
+2024-10-10,Potatoes,Wakulima,99,per kg
+2024-10-10,Cabbage,Wakulima,68,per piece
+2024-10-11,Tomatoes,Wakulima,85,per kg
+2024-10-11,Sukuma Wiki,Wakulima,37,per bundle
+2024-10-11,Onions,Wakulima,140,per kg
+2024-10-11,Maize,Wakulima,163,per tin
+2024-10-11,Potatoes,Wakulima,99,per kg
+2024-10-11,Cabbage,Wakulima,71,per piece
+2024-10-12,Tomatoes,Wakulima,96,per kg
+2024-10-12,Sukuma Wiki,Wakulima,37,per bundle
+2024-10-12,Onions,Wakulima,138,per kg
+2024-10-12,Maize,Wakulima,184,per tin
+2024-10-12,Potatoes,Wakulima,104,per kg
+2024-10-12,Cabbage,Wakulima,72,per piece
+2024-10-13,Tomatoes,Wakulima,103,per kg
+2024-10-13,Sukuma Wiki,Wakulima,36,per bundle
+2024-10-13,Onions,Wakulima,148,per kg
+2024-10-13,Maize,Wakulima,182,per tin
+2024-10-13,Potatoes,Wakulima,110,per kg
+2024-10-13,Cabbage,Wakulima,65,per piece
+2024-10-14,Tomatoes,Wakulima,90,per kg
+2024-10-14,Sukuma Wiki,Wakulima,37,per bundle
+2024-10-14,Onions,Wakulima,141,per kg
+2024-10-14,Maize,Wakulima,175,per tin
+2024-10-14,Potatoes,Wakulima,103,per kg
+2024-10-14,Cabbage,Wakulima,70,per piece
+2024-10-15,Tomatoes,Wakulima,92,per kg
+2024-10-15,Sukuma Wiki,Wakulima,31,per bundle
+2024-10-15,Onions,Wakulima,138,per kg
+2024-10-15,Maize,Wakulima,171,per tin
+2024-10-15,Potatoes,Wakulima,108,per kg
+2024-10-15,Cabbage,Wakulima,63,per piece
+2024-10-16,Tomatoes,Wakulima,94,per kg
+2024-10-16,Sukuma Wiki,Wakulima,30,per bundle
+2024-10-16,Onions,Wakulima,144,per kg
+2024-10-16,Maize,Wakulima,159,per tin
+2024-10-16,Potatoes,Wakulima,93,per kg
+2024-10-16,Cabbage,Wakulima,65,per piece
+2024-10-17,Tomatoes,Wakulima,85,per kg
+2024-10-17,Sukuma Wiki,Wakulima,35,per bundle
+2024-10-17,Onions,Wakulima,133,per kg
+2024-10-17,Maize,Wakulima,175,per tin
+2024-10-17,Potatoes,Wakulima,109,per kg
+2024-10-17,Cabbage,Wakulima,72,per piece
+2024-10-18,Tomatoes,Wakulima,95,per kg
+2024-10-18,Sukuma Wiki,Wakulima,30,per bundle
+2024-10-18,Onions,Wakulima,128,per kg
+2024-10-18,Maize,Wakulima,161,per tin
+2024-10-18,Potatoes,Wakulima,99,per kg
+2024-10-18,Cabbage,Wakulima,69,per piece
+2024-10-19,Tomatoes,Wakulima,96,per kg
+2024-10-19,Sukuma Wiki,Wakulima,34,per bundle
+2024-10-19,Onions,Wakulima,135,per kg
+2024-10-19,Maize,Wakulima,187,per tin
+2024-10-19,Potatoes,Wakulima,104,per kg
+2024-10-19,Cabbage,Wakulima,69,per piece
+2024-10-20,Tomatoes,Wakulima,100,per kg
+2024-10-20,Sukuma Wiki,Wakulima,37,per bundle
+2024-10-20,Onions,Wakulima,145,per kg
+2024-10-20,Maize,Wakulima,181,per tin
+2024-10-20,Potatoes,Wakulima,109,per kg
+2024-10-20,Cabbage,Wakulima,67,per piece
+2024-10-21,Tomatoes,Wakulima,87,per kg
+2024-10-21,Sukuma Wiki,Wakulima,34,per bundle
+2024-10-21,Onions,Wakulima,130,per kg
+2024-10-21,Maize,Wakulima,180,per tin
+2024-10-21,Potatoes,Wakulima,98,per kg
+2024-10-21,Cabbage,Wakulima,65,per piece
+2024-10-22,Tomatoes,Wakulima,86,per kg
+2024-10-22,Sukuma Wiki,Wakulima,35,per bundle
+2024-10-22,Onions,Wakulima,132,per kg
+2024-10-22,Maize,Wakulima,165,per tin
+2024-10-22,Potatoes,Wakulima,110,per kg
+2024-10-22,Cabbage,Wakulima,71,per piece
+2024-10-23,Tomatoes,Wakulima,87,per kg
+2024-10-23,Sukuma Wiki,Wakulima,31,per bundle
+2024-10-23,Onions,Wakulima,139,per kg
+2024-10-23,Maize,Wakulima,165,per tin
+2024-10-23,Potatoes,Wakulima,110,per kg
+2024-10-23,Cabbage,Wakulima,71,per piece
+2024-10-24,Tomatoes,Wakulima,98,per kg
+2024-10-24,Sukuma Wiki,Wakulima,36,per bundle
+2024-10-24,Onions,Wakulima,131,per kg
+2024-10-24,Maize,Wakulima,163,per tin
+2024-10-24,Potatoes,Wakulima,106,per kg
+2024-10-24,Cabbage,Wakulima,65,per piece
+2024-10-25,Tomatoes,Wakulima,90,per kg
+2024-10-25,Sukuma Wiki,Wakulima,32,per bundle
+2024-10-25,Onions,Wakulima,135,per kg
+2024-10-25,Maize,Wakulima,161,per tin
+2024-10-25,Potatoes,Wakulima,103,per kg
+2024-10-25,Cabbage,Wakulima,72,per piece
+2024-10-26,Tomatoes,Wakulima,99,per kg
+2024-10-26,Sukuma Wiki,Wakulima,32,per bundle
+2024-10-26,Onions,Wakulima,144,per kg
+2024-10-26,Maize,Wakulima,179,per tin
+2024-10-26,Potatoes,Wakulima,102,per kg
+2024-10-26,Cabbage,Wakulima,72,per piece
+2024-10-27,Tomatoes,Wakulima,96,per kg
+2024-10-27,Sukuma Wiki,Wakulima,36,per bundle
+2024-10-27,Onions,Wakulima,133,per kg
+2024-10-27,Maize,Wakulima,175,per tin
+2024-10-27,Potatoes,Wakulima,111,per kg
+2024-10-27,Cabbage,Wakulima,66,per piece
+2024-10-28,Tomatoes,Wakulima,95,per kg
+2024-10-28,Sukuma Wiki,Wakulima,30,per bundle
+2024-10-28,Onions,Wakulima,136,per kg
+2024-10-28,Maize,Wakulima,179,per tin
+2024-10-28,Potatoes,Wakulima,100,per kg
+2024-10-28,Cabbage,Wakulima,72,per piece
+2024-10-29,Tomatoes,Wakulima,97,per kg
+2024-10-29,Sukuma Wiki,Wakulima,33,per bundle
+2024-10-29,Onions,Wakulima,129,per kg
+2024-10-29,Maize,Wakulima,180,per tin
+2024-10-29,Potatoes,Wakulima,99,per kg
+2024-10-29,Cabbage,Wakulima,69,per piece
+2024-10-30,Tomatoes,Wakulima,97,per kg
+2024-10-30,Sukuma Wiki,Wakulima,30,per bundle
+2024-10-30,Onions,Wakulima,137,per kg
+2024-10-30,Maize,Wakulima,169,per tin
+2024-10-30,Potatoes,Wakulima,106,per kg
+2024-10-30,Cabbage,Wakulima,72,per piece
+2024-10-31,Tomatoes,Wakulima,98,per kg
+2024-10-31,Sukuma Wiki,Wakulima,31,per bundle
+2024-10-31,Onions,Wakulima,143,per kg
+2024-10-31,Maize,Wakulima,161,per tin
+2024-10-31,Potatoes,Wakulima,109,per kg
+2024-10-31,Cabbage,Wakulima,73,per piece
+2024-11-01,Tomatoes,Wakulima,89,per kg
+2024-11-01,Sukuma Wiki,Wakulima,34,per bundle
+2024-11-01,Onions,Wakulima,144,per kg
+2024-11-01,Maize,Wakulima,180,per tin
+2024-11-01,Potatoes,Wakulima,110,per kg
+2024-11-01,Cabbage,Wakulima,72,per piece
+2024-11-02,Tomatoes,Wakulima,88,per kg
+2024-11-02,Sukuma Wiki,Wakulima,36,per bundle
+2024-11-02,Onions,Wakulima,134,per kg
+2024-11-02,Maize,Wakulima,188,per tin
+2024-11-02,Potatoes,Wakulima,103,per kg
+2024-11-02,Cabbage,Wakulima,76,per piece
+2024-11-03,Tomatoes,Wakulima,96,per kg
+2024-11-03,Sukuma Wiki,Wakulima,35,per bundle
+2024-11-03,Onions,Wakulima,151,per kg
+2024-11-03,Maize,Wakulima,185,per tin
+2024-11-03,Potatoes,Wakulima,106,per kg
+2024-11-03,Cabbage,Wakulima,67,per piece
+2024-11-04,Tomatoes,Wakulima,85,per kg
+2024-11-04,Sukuma Wiki,Wakulima,31,per bundle
+2024-11-04,Onions,Wakulima,135,per kg
+2024-11-04,Maize,Wakulima,163,per tin
+2024-11-04,Potatoes,Wakulima,96,per kg
+2024-11-04,Cabbage,Wakulima,70,per piece
+2024-11-05,Tomatoes,Wakulima,96,per kg
+2024-11-05,Sukuma Wiki,Wakulima,34,per bundle
+2024-11-05,Onions,Wakulima,140,per kg
+2024-11-05,Maize,Wakulima,161,per tin
+2024-11-05,Potatoes,Wakulima,108,per kg
+2024-11-05,Cabbage,Wakulima,72,per piece
+2024-11-06,Tomatoes,Wakulima,96,per kg
+2024-11-06,Sukuma Wiki,Wakulima,34,per bundle
+2024-11-06,Onions,Wakulima,127,per kg
+2024-11-06,Maize,Wakulima,173,per tin
+2024-11-06,Potatoes,Wakulima,96,per kg
+2024-11-06,Cabbage,Wakulima,63,per piece
+2024-11-07,Tomatoes,Wakulima,88,per kg
+2024-11-07,Sukuma Wiki,Wakulima,32,per bundle
+2024-11-07,Onions,Wakulima,131,per kg
+2024-11-07,Maize,Wakulima,162,per tin
+2024-11-07,Potatoes,Wakulima,107,per kg
+2024-11-07,Cabbage,Wakulima,73,per piece
+2024-11-08,Tomatoes,Wakulima,88,per kg
+2024-11-08,Sukuma Wiki,Wakulima,35,per bundle
+2024-11-08,Onions,Wakulima,126,per kg
+2024-11-08,Maize,Wakulima,172,per tin
+2024-11-08,Potatoes,Wakulima,105,per kg
+2024-11-08,Cabbage,Wakulima,62,per piece
+2024-11-09,Tomatoes,Wakulima,89,per kg
+2024-11-09,Sukuma Wiki,Wakulima,34,per bundle
+2024-11-09,Onions,Wakulima,140,per kg
+2024-11-09,Maize,Wakulima,177,per tin
+2024-11-09,Potatoes,Wakulima,114,per kg
+2024-11-09,Cabbage,Wakulima,73,per piece
+2024-11-10,Tomatoes,Wakulima,93,per kg
+2024-11-10,Sukuma Wiki,Wakulima,32,per bundle
+2024-11-10,Onions,Wakulima,150,per kg
+2024-11-10,Maize,Wakulima,172,per tin
+2024-11-10,Potatoes,Wakulima,109,per kg
+2024-11-10,Cabbage,Wakulima,67,per piece
+2024-11-11,Tomatoes,Wakulima,85,per kg
+2024-11-11,Sukuma Wiki,Wakulima,31,per bundle
+2024-11-11,Onions,Wakulima,140,per kg
+2024-11-11,Maize,Wakulima,171,per tin
+2024-11-11,Potatoes,Wakulima,100,per kg
+2024-11-11,Cabbage,Wakulima,68,per piece
+2024-11-12,Tomatoes,Wakulima,91,per kg
+2024-11-12,Sukuma Wiki,Wakulima,34,per bundle
+2024-11-12,Onions,Wakulima,139,per kg
+2024-11-12,Maize,Wakulima,162,per tin
+2024-11-12,Potatoes,Wakulima,97,per kg
+2024-11-12,Cabbage,Wakulima,70,per piece
+2024-11-13,Tomatoes,Wakulima,97,per kg
+2024-11-13,Sukuma Wiki,Wakulima,30,per bundle
+2024-11-13,Onions,Wakulima,134,per kg
+2024-11-13,Maize,Wakulima,173,per tin
+2024-11-13,Potatoes,Wakulima,94,per kg
+2024-11-13,Cabbage,Wakulima,68,per piece
+2024-11-14,Tomatoes,Wakulima,84,per kg
+2024-11-14,Sukuma Wiki,Wakulima,34,per bundle
+2024-11-14,Onions,Wakulima,136,per kg
+2024-11-14,Maize,Wakulima,170,per tin
+2024-11-14,Potatoes,Wakulima,96,per kg
+2024-11-14,Cabbage,Wakulima,65,per piece
+2024-11-15,Tomatoes,Wakulima,91,per kg
+2024-11-15,Sukuma Wiki,Wakulima,31,per bundle
+2024-11-15,Onions,Wakulima,130,per kg
+2024-11-15,Maize,Wakulima,171,per tin
+2024-11-15,Potatoes,Wakulima,95,per kg
+2024-11-15,Cabbage,Wakulima,67,per piece
+2024-11-16,Tomatoes,Wakulima,101,per kg
+2024-11-16,Sukuma Wiki,Wakulima,35,per bundle
+2024-11-16,Onions,Wakulima,143,per kg
+2024-11-16,Maize,Wakulima,176,per tin
+2024-11-16,Potatoes,Wakulima,99,per kg
+2024-11-16,Cabbage,Wakulima,70,per piece
+2024-11-17,Tomatoes,Wakulima,101,per kg
+2024-11-17,Sukuma Wiki,Wakulima,37,per bundle
+2024-11-17,Onions,Wakulima,140,per kg
+2024-11-17,Maize,Wakulima,185,per tin
+2024-11-17,Potatoes,Wakulima,112,per kg
+2024-11-17,Cabbage,Wakulima,71,per piece
+2024-11-18,Tomatoes,Wakulima,84,per kg
+2024-11-18,Sukuma Wiki,Wakulima,32,per bundle
+2024-11-18,Onions,Wakulima,127,per kg
+2024-11-18,Maize,Wakulima,180,per tin
+2024-11-18,Potatoes,Wakulima,110,per kg
+2024-11-18,Cabbage,Wakulima,62,per piece
+2024-11-19,Tomatoes,Wakulima,98,per kg
+2024-11-19,Sukuma Wiki,Wakulima,30,per bundle
+2024-11-19,Onions,Wakulima,134,per kg
+2024-11-19,Maize,Wakulima,175,per tin
+2024-11-19,Potatoes,Wakulima,107,per kg
+2024-11-19,Cabbage,Wakulima,73,per piece
+2024-11-20,Tomatoes,Wakulima,93,per kg
+2024-11-20,Sukuma Wiki,Wakulima,33,per bundle
+2024-11-20,Onions,Wakulima,145,per kg
+2024-11-20,Maize,Wakulima,166,per tin
+2024-11-20,Potatoes,Wakulima,109,per kg
+2024-11-20,Cabbage,Wakulima,72,per piece
+2024-11-21,Tomatoes,Wakulima,89,per kg
+2024-11-21,Sukuma Wiki,Wakulima,35,per bundle
+2024-11-21,Onions,Wakulima,139,per kg
+2024-11-21,Maize,Wakulima,170,per tin
+2024-11-21,Potatoes,Wakulima,105,per kg
+2024-11-21,Cabbage,Wakulima,65,per piece
+2024-11-22,Tomatoes,Wakulima,86,per kg
+2024-11-22,Sukuma Wiki,Wakulima,34,per bundle
+2024-11-22,Onions,Wakulima,136,per kg
+2024-11-22,Maize,Wakulima,174,per tin
+2024-11-22,Potatoes,Wakulima,97,per kg
+2024-11-22,Cabbage,Wakulima,61,per piece
+2024-11-23,Tomatoes,Wakulima,88,per kg
+2024-11-23,Sukuma Wiki,Wakulima,34,per bundle
+2024-11-23,Onions,Wakulima,146,per kg
+2024-11-23,Maize,Wakulima,178,per tin
+2024-11-23,Potatoes,Wakulima,108,per kg
+2024-11-23,Cabbage,Wakulima,74,per piece
+2024-11-24,Tomatoes,Wakulima,92,per kg
+2024-11-24,Sukuma Wiki,Wakulima,34,per bundle
+2024-11-24,Onions,Wakulima,138,per kg
+2024-11-24,Maize,Wakulima,188,per tin
+2024-11-24,Potatoes,Wakulima,111,per kg
+2024-11-24,Cabbage,Wakulima,66,per piece
+2024-11-25,Tomatoes,Wakulima,96,per kg
+2024-11-25,Sukuma Wiki,Wakulima,33,per bundle
+2024-11-25,Onions,Wakulima,141,per kg
+2024-11-25,Maize,Wakulima,178,per tin
+2024-11-25,Potatoes,Wakulima,93,per kg
+2024-11-25,Cabbage,Wakulima,64,per piece
+2024-11-26,Tomatoes,Wakulima,85,per kg
+2024-11-26,Sukuma Wiki,Wakulima,30,per bundle
+2024-11-26,Onions,Wakulima,138,per kg
+2024-11-26,Maize,Wakulima,174,per tin
+2024-11-26,Potatoes,Wakulima,94,per kg
+2024-11-26,Cabbage,Wakulima,70,per piece
+2024-11-27,Tomatoes,Wakulima,90,per kg
+2024-11-27,Sukuma Wiki,Wakulima,31,per bundle
+2024-11-27,Onions,Wakulima,130,per kg
+2024-11-27,Maize,Wakulima,177,per tin
+2024-11-27,Potatoes,Wakulima,94,per kg
+2024-11-27,Cabbage,Wakulima,67,per piece
+2024-11-28,Tomatoes,Wakulima,88,per kg
+2024-11-28,Sukuma Wiki,Wakulima,36,per bundle
+2024-11-28,Onions,Wakulima,140,per kg
+2024-11-28,Maize,Wakulima,164,per tin
+2024-11-28,Potatoes,Wakulima,104,per kg
+2024-11-28,Cabbage,Wakulima,69,per piece
+2024-11-29,Tomatoes,Wakulima,88,per kg
+2024-11-29,Sukuma Wiki,Wakulima,32,per bundle
+2024-11-29,Onions,Wakulima,128,per kg
+2024-11-29,Maize,Wakulima,173,per tin
+2024-11-29,Potatoes,Wakulima,97,per kg
+2024-11-29,Cabbage,Wakulima,65,per piece
+2024-11-30,Tomatoes,Wakulima,89,per kg
+2024-11-30,Sukuma Wiki,Wakulima,39,per bundle
+2024-11-30,Onions,Wakulima,150,per kg
+2024-11-30,Maize,Wakulima,187,per tin
+2024-11-30,Potatoes,Wakulima,110,per kg
+2024-11-30,Cabbage,Wakulima,70,per piece
+2024-12-01,Tomatoes,Wakulima,87,per kg
+2024-12-01,Sukuma Wiki,Wakulima,36,per bundle
+2024-12-01,Onions,Wakulima,138,per kg
+2024-12-01,Maize,Wakulima,165,per tin
+2024-12-01,Potatoes,Wakulima,103,per kg
+2024-12-01,Cabbage,Wakulima,62,per piece
+2024-12-02,Tomatoes,Wakulima,82,per kg
+2024-12-02,Sukuma Wiki,Wakulima,28,per bundle
+2024-12-02,Onions,Wakulima,121,per kg
+2024-12-02,Maize,Wakulima,160,per tin
+2024-12-02,Potatoes,Wakulima,92,per kg
+2024-12-02,Cabbage,Wakulima,65,per piece
+2024-12-03,Tomatoes,Wakulima,80,per kg
+2024-12-03,Sukuma Wiki,Wakulima,32,per bundle
+2024-12-03,Onions,Wakulima,129,per kg
+2024-12-03,Maize,Wakulima,163,per tin
+2024-12-03,Potatoes,Wakulima,94,per kg
+2024-12-03,Cabbage,Wakulima,67,per piece
+2024-12-04,Tomatoes,Wakulima,84,per kg
+2024-12-04,Sukuma Wiki,Wakulima,28,per bundle
+2024-12-04,Onions,Wakulima,118,per kg
+2024-12-04,Maize,Wakulima,146,per tin
+2024-12-04,Potatoes,Wakulima,96,per kg
+2024-12-04,Cabbage,Wakulima,66,per piece
+2024-12-05,Tomatoes,Wakulima,89,per kg
+2024-12-05,Sukuma Wiki,Wakulima,27,per bundle
+2024-12-05,Onions,Wakulima,128,per kg
+2024-12-05,Maize,Wakulima,146,per tin
+2024-12-05,Potatoes,Wakulima,89,per kg
+2024-12-05,Cabbage,Wakulima,63,per piece
+2024-12-06,Tomatoes,Wakulima,85,per kg
+2024-12-06,Sukuma Wiki,Wakulima,34,per bundle
+2024-12-06,Onions,Wakulima,117,per kg
+2024-12-06,Maize,Wakulima,160,per tin
+2024-12-06,Potatoes,Wakulima,97,per kg
+2024-12-06,Cabbage,Wakulima,62,per piece
+2024-12-07,Tomatoes,Wakulima,87,per kg
+2024-12-07,Sukuma Wiki,Wakulima,35,per bundle
+2024-12-07,Onions,Wakulima,126,per kg
+2024-12-07,Maize,Wakulima,172,per tin
+2024-12-07,Potatoes,Wakulima,89,per kg
+2024-12-07,Cabbage,Wakulima,69,per piece
+2024-12-08,Tomatoes,Wakulima,95,per kg
+2024-12-08,Sukuma Wiki,Wakulima,29,per bundle
+2024-12-08,Onions,Wakulima,140,per kg
+2024-12-08,Maize,Wakulima,161,per tin
+2024-12-08,Potatoes,Wakulima,93,per kg
+2024-12-08,Cabbage,Wakulima,65,per piece
+2024-12-09,Tomatoes,Wakulima,78,per kg
+2024-12-09,Sukuma Wiki,Wakulima,34,per bundle
+2024-12-09,Onions,Wakulima,124,per kg
+2024-12-09,Maize,Wakulima,160,per tin
+2024-12-09,Potatoes,Wakulima,91,per kg
+2024-12-09,Cabbage,Wakulima,62,per piece
+2024-12-10,Tomatoes,Wakulima,81,per kg
+2024-12-10,Sukuma Wiki,Wakulima,29,per bundle
+2024-12-10,Onions,Wakulima,124,per kg
+2024-12-10,Maize,Wakulima,153,per tin
+2024-12-10,Potatoes,Wakulima,86,per kg
+2024-12-10,Cabbage,Wakulima,67,per piece
+2024-12-11,Tomatoes,Wakulima,83,per kg
+2024-12-11,Sukuma Wiki,Wakulima,33,per bundle
+2024-12-11,Onions,Wakulima,132,per kg
+2024-12-11,Maize,Wakulima,150,per tin
+2024-12-11,Potatoes,Wakulima,91,per kg
+2024-12-11,Cabbage,Wakulima,62,per piece
+2024-12-12,Tomatoes,Wakulima,79,per kg
+2024-12-12,Sukuma Wiki,Wakulima,28,per bundle
+2024-12-12,Onions,Wakulima,119,per kg
+2024-12-12,Maize,Wakulima,164,per tin
+2024-12-12,Potatoes,Wakulima,94,per kg
+2024-12-12,Cabbage,Wakulima,60,per piece
+2024-12-13,Tomatoes,Wakulima,77,per kg
+2024-12-13,Sukuma Wiki,Wakulima,29,per bundle
+2024-12-13,Onions,Wakulima,121,per kg
+2024-12-13,Maize,Wakulima,162,per tin
+2024-12-13,Potatoes,Wakulima,93,per kg
+2024-12-13,Cabbage,Wakulima,63,per piece
+2024-12-14,Tomatoes,Wakulima,90,per kg
+2024-12-14,Sukuma Wiki,Wakulima,30,per bundle
+2024-12-14,Onions,Wakulima,136,per kg
+2024-12-14,Maize,Wakulima,172,per tin
+2024-12-14,Potatoes,Wakulima,100,per kg
+2024-12-14,Cabbage,Wakulima,64,per piece
+2024-12-15,Tomatoes,Wakulima,82,per kg
+2024-12-15,Sukuma Wiki,Wakulima,34,per bundle
+2024-12-15,Onions,Wakulima,123,per kg
+2024-12-15,Maize,Wakulima,167,per tin
+2024-12-15,Potatoes,Wakulima,97,per kg
+2024-12-15,Cabbage,Wakulima,69,per piece
+2024-12-16,Tomatoes,Wakulima,84,per kg
+2024-12-16,Sukuma Wiki,Wakulima,32,per bundle
+2024-12-16,Onions,Wakulima,115,per kg
+2024-12-16,Maize,Wakulima,142,per tin
+2024-12-16,Potatoes,Wakulima,99,per kg
+2024-12-16,Cabbage,Wakulima,66,per piece
+2024-12-17,Tomatoes,Wakulima,86,per kg
+2024-12-17,Sukuma Wiki,Wakulima,33,per bundle
+2024-12-17,Onions,Wakulima,122,per kg
+2024-12-17,Maize,Wakulima,162,per tin
+2024-12-17,Potatoes,Wakulima,88,per kg
+2024-12-17,Cabbage,Wakulima,64,per piece
+2024-12-18,Tomatoes,Wakulima,75,per kg
+2024-12-18,Sukuma Wiki,Wakulima,31,per bundle
+2024-12-18,Onions,Wakulima,121,per kg
+2024-12-18,Maize,Wakulima,156,per tin
+2024-12-18,Potatoes,Wakulima,96,per kg
+2024-12-18,Cabbage,Wakulima,63,per piece
+2024-12-19,Tomatoes,Wakulima,83,per kg
+2024-12-19,Sukuma Wiki,Wakulima,30,per bundle
+2024-12-19,Onions,Wakulima,114,per kg
+2024-12-19,Maize,Wakulima,155,per tin
+2024-12-19,Potatoes,Wakulima,84,per kg
+2024-12-19,Cabbage,Wakulima,62,per piece
+2024-12-20,Tomatoes,Wakulima,79,per kg
+2024-12-20,Sukuma Wiki,Wakulima,34,per bundle
+2024-12-20,Onions,Wakulima,114,per kg
+2024-12-20,Maize,Wakulima,161,per tin
+2024-12-20,Potatoes,Wakulima,96,per kg
+2024-12-20,Cabbage,Wakulima,65,per piece
+2024-12-21,Tomatoes,Wakulima,94,per kg
+2024-12-21,Sukuma Wiki,Wakulima,29,per bundle
+2024-12-21,Onions,Wakulima,122,per kg
+2024-12-21,Maize,Wakulima,153,per tin
+2024-12-21,Potatoes,Wakulima,92,per kg
+2024-12-21,Cabbage,Wakulima,65,per piece
+2024-12-22,Tomatoes,Wakulima,92,per kg
+2024-12-22,Sukuma Wiki,Wakulima,30,per bundle
+2024-12-22,Onions,Wakulima,128,per kg
+2024-12-22,Maize,Wakulima,158,per tin
+2024-12-22,Potatoes,Wakulima,96,per kg
+2024-12-22,Cabbage,Wakulima,65,per piece
+2024-12-23,Tomatoes,Wakulima,91,per kg
+2024-12-23,Sukuma Wiki,Wakulima,28,per bundle
+2024-12-23,Onions,Wakulima,127,per kg
+2024-12-23,Maize,Wakulima,162,per tin
+2024-12-23,Potatoes,Wakulima,96,per kg
+2024-12-23,Cabbage,Wakulima,65,per piece
+2024-12-24,Tomatoes,Wakulima,87,per kg
+2024-12-24,Sukuma Wiki,Wakulima,27,per bundle
+2024-12-24,Onions,Wakulima,121,per kg
+2024-12-24,Maize,Wakulima,155,per tin
+2024-12-24,Potatoes,Wakulima,85,per kg
+2024-12-24,Cabbage,Wakulima,55,per piece
+2024-12-25,Tomatoes,Wakulima,78,per kg
+2024-12-25,Sukuma Wiki,Wakulima,31,per bundle
+2024-12-25,Onions,Wakulima,122,per kg
+2024-12-25,Maize,Wakulima,161,per tin
+2024-12-25,Potatoes,Wakulima,94,per kg
+2024-12-25,Cabbage,Wakulima,65,per piece
+2024-12-26,Tomatoes,Wakulima,77,per kg
+2024-12-26,Sukuma Wiki,Wakulima,31,per bundle
+2024-12-26,Onions,Wakulima,114,per kg
+2024-12-26,Maize,Wakulima,147,per tin
+2024-12-26,Potatoes,Wakulima,100,per kg
+2024-12-26,Cabbage,Wakulima,66,per piece
+2024-12-27,Tomatoes,Wakulima,83,per kg
+2024-12-27,Sukuma Wiki,Wakulima,27,per bundle
+2024-12-27,Onions,Wakulima,115,per kg
+2024-12-27,Maize,Wakulima,164,per tin
+2024-12-27,Potatoes,Wakulima,100,per kg
+2024-12-27,Cabbage,Wakulima,62,per piece
+2024-12-28,Tomatoes,Wakulima,80,per kg
+2024-12-28,Sukuma Wiki,Wakulima,36,per bundle
+2024-12-28,Onions,Wakulima,126,per kg
+2024-12-28,Maize,Wakulima,172,per tin
+2024-12-28,Potatoes,Wakulima,99,per kg
+2024-12-28,Cabbage,Wakulima,67,per piece
+2024-12-29,Tomatoes,Wakulima,91,per kg
+2024-12-29,Sukuma Wiki,Wakulima,31,per bundle
+2024-12-29,Onions,Wakulima,121,per kg
+2024-12-29,Maize,Wakulima,153,per tin
+2024-12-29,Potatoes,Wakulima,93,per kg
+2024-12-29,Cabbage,Wakulima,68,per piece
+2024-12-30,Tomatoes,Wakulima,81,per kg
+2024-12-30,Sukuma Wiki,Wakulima,34,per bundle
+2024-12-30,Onions,Wakulima,120,per kg
+2024-12-30,Maize,Wakulima,160,per tin
+2024-12-30,Potatoes,Wakulima,87,per kg
+2024-12-30,Cabbage,Wakulima,67,per piece

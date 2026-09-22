@@ -77,5 +77,6 @@ Mode: CTO (Agent) + Vibecoder Owner (User, non-technical)
 - [x] Supabase project live, tables created by user, 2190 prices + 180 predictions synced
 - [x] FastAPI backend — DONE, tested /health /items /predict
 - [x] React frontend — DONE, npm build passes
-- [ ] Local end-to-end test — WAITING ON USER
-- [ ] Cloud deploy Vercel + Render — NOT STARTED
+- [x] Local end-to-end test — DONE, user sees charts locally
+- [x] Cloud deploy Vercel + Render — DONE, backend https://aifood-6cmh.onrender.com + frontend https://aifood-iota.vercel.app/ both live, /items fixed (no date parsing for py3.14)
+- [ ] Final report + demo script — WAITING ON USER for university format

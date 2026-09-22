@@ -13,7 +13,23 @@ app = FastAPI(title="AI Food Price Forecasting - Kenya")
 app.add_middleware(CORSMiddleware, allow_origins=["*"], allow_methods=["*"], allow_headers=["*"])
 
 def load_prices():
-    return pd.read_csv(DATA_CSV, parse_dates=["date"])
+    try:
+        return pd.read_csv(DATA_CSV, parse_dates=["date"])
+    except Exception as e:
+        # Fallback without date parsing (pandas version differences on cloud)
+        try:
+            df = pd.read_csv(DATA_CSV)
+            df["date"] = pd.to_datetime(df["date"])
+            return df
+        except Exception as e2:
+            raise RuntimeError(f"Cannot load {DATA_CSV}: {e} / {e2}")
+
+@app.get("/debug")
+def debug():
+    return {"cwd": os.getcwd(), "data_csv": DATA_CSV,
+            "exists": os.path.exists(DATA_CSV),
+            "pred_dir_exists": os.path.exists(PRED_DIR),
+            "pred_files": os.listdir(PRED_DIR) if os.path.exists(PRED_DIR) else []}
 
 @app.get("/")
 def root():

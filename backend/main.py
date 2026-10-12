@@ -46,17 +46,26 @@ def items():
     return {"items": sorted(df["item"].unique().tolist()), "markets": sorted(df["market"].unique().tolist())}
 
 @app.get("/prices")
-def prices(item: str = "Tomatoes", market: str = "Wakulima", limit: int = 90):
+def prices(item: str = "Maize", market: str = "Nairobi", limit: int = 90):
     df = load_prices()
     sub = df[(df["item"] == item) & (df["market"] == market)].sort_values("date").tail(limit)
-    return {"item": item, "market": market, "current": float(sub.iloc[-1]["price_kes"]),
+    market_used = market
+    if sub.empty:
+        # fallback: most common market for this item (real WFP data sparse per market)
+        cand = df[df["item"] == item]
+        if cand.empty:
+            return {"error": f"No data for item {item}"}
+        market_used = cand["market"].value_counts().idxmax()
+        sub = cand[cand["market"] == market_used].sort_values("date").tail(limit)
+    return {"item": item, "market": market_used, "requested_market": market,
+            "current": float(sub.iloc[-1]["price_kes"]),
             "history": [{"date": r["date"].strftime("%Y-%m-%d") if hasattr(r["date"], "strftime") else str(r["date"]), "price": float(r["price_kes"])} for _, r in sub.iterrows()]}
 
 @app.get("/predict")
-def predict(item: str = "Tomatoes", days: int = 7):
+def predict(item: str = "Maize", days: int = 7, market: str = "Nairobi"):
     fname = os.path.join(PRED_DIR, f"{item.replace(' ', '_').lower()}_forecast.csv")
     if not os.path.exists(fname):
-        return {"error": f"No forecast for {item}. Run train_forecast.py"}
+        return {"error": f"No forecast for {item}. Run backend/train_forecast_v2.py"}
     fc = pd.read_csv(fname).head(days)
     vals = fc["yhat"].tolist()
     trend = "increasing" if vals[-1] > vals[0] + 1 else "decreasing" if vals[-1] < vals[0] - 1 else "stable"
@@ -79,8 +88,8 @@ async def upload(file: UploadFile = File(...)):
         return {"error": f"CSV must have columns: {sorted(required)}. Got: {list(df_new.columns)}. Do NOT upload exported forecast files."}
     open(DATA_CSV, "wb").write(content)
     # retrain quickly
-    from backend.train_forecast import main as retrain
-    import backend.train_forecast as tf
+    from backend.train_forecast_v2 import main as retrain
+    import backend.train_forecast_v2 as tf
     tf.DATA = DATA_CSV
     retrain()
     return {"saved": DATA_CSV, "rows": len(pd.read_csv(DATA_CSV))}

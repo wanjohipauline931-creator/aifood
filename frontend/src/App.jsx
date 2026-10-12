@@ -7,8 +7,10 @@ const API = import.meta.env.VITE_API_URL || "http://localhost:8000";
 export default function App() {
   const [tab, setTab] = useState("dashboard");
   const [items, setItems] = useState([]);
-  const [item, setItem] = useState("Tomatoes");
-  const [days, setDays] = useState(7);
+  const [markets, setMarkets] = useState(["Nairobi"]);
+  const [item, setItem] = useState("Maize");
+  const [market, setMarket] = useState("Nairobi");
+  const [days, setDays] = useState(6);
   const [data, setData] = useState(null);
   const [admin, setAdmin] = useState(false);
   const [login, setLogin] = useState({ u: "", p: "" });
@@ -16,17 +18,21 @@ export default function App() {
   useEffect(() => {
     axios.get(`${API}/items`).then(r => {
       setItems(r.data.items);
-      if (r.data.items.length) setItem(r.data.items[0]);
-    }).catch(() => setItems(["Tomatoes", "Sukuma Wiki", "Onions", "Maize", "Potatoes", "Cabbage"]));
+      if (r.data.items.length) setItem(r.data.items.includes("Maize") ? "Maize" : r.data.items[0]);
+      if (r.data.markets?.length) {
+        setMarkets(r.data.markets);
+        if (r.data.markets.includes("Nairobi")) setMarket("Nairobi");
+      }
+    }).catch(() => setItems(["Maize", "Beans", "Potatoes", "Sorghum", "Rice", "Sugar"]));
   }, []);
 
   useEffect(() => {
     if (tab !== "dashboard") return;
     Promise.all([
-      axios.get(`${API}/prices`, { params: { item, limit: 60 } }),
-      axios.get(`${API}/predict`, { params: { item, days } })
+      axios.get(`${API}/prices`, { params: { item, market, limit: 60 } }),
+      axios.get(`${API}/predict`, { params: { item, days, market } })
     ]).then(([h, p]) => setData({ h: h.data, p: p.data })).catch(() => setData(null));
-  }, [item, days, tab]);
+  }, [item, market, days, tab]);
 
   const chart = data ? [
     ...data.h.history.map(x => ({ date: x.date.slice(5), past: x.price })),
@@ -51,7 +57,7 @@ export default function App() {
   return (
     <div style={{ fontFamily: "Arial", maxWidth: 1000, margin: "0 auto", padding: 20 }}>
       <h1>AI Food Price Forecasting - Kenya</h1>
-      <p>Historical + AI predicted prices for Wakulima market. Simulated near-real-time demo.</p>
+      <p>Historical + AI predicted prices (WFP Kenya real data, monthly). Showing {market} market.</p>
       <div style={{ display: "flex", gap: 10, marginBottom: 20 }}>
         {["dashboard", "predictions", "admin", "login"].map(t => (
           <button key={t} onClick={() => setTab(t)} style={{ padding: "8px 16px", background: tab === t ? "#16a34a" : "#eee", color: tab === t ? "#fff" : "#000", border: 0, borderRadius: 6 }}>{t}</button>
@@ -62,7 +68,8 @@ export default function App() {
         <div>
           <div style={{ display: "flex", gap: 10, marginBottom: 15 }}>
             <select value={item} onChange={e => setItem(e.target.value)}>{items.map(i => <option key={i}>{i}</option>)}</select>
-            <select value={days} onChange={e => setDays(Number(e.target.value))}><option value={7}>Next 7 days</option><option value={14}>Next 14 days</option><option value={30}>Next 30 days</option></select>
+            <select value={market} onChange={e => setMarket(e.target.value)}>{markets.slice(0, 30).map(m => <option key={m}>{m}</option>)}</select>
+            <select value={days} onChange={e => setDays(Number(e.target.value))}><option value={3}>Next 3 months</option><option value={6}>Next 6 months</option><option value={12}>Next 12 months</option></select>
             <button onClick={exportCSV}>Export CSV</button>
           </div>
           {data ? <>
